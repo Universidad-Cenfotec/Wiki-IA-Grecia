@@ -1,0 +1,4 @@
+raw/restringido/
+__pycache__/
+*.pyc
+.staging/

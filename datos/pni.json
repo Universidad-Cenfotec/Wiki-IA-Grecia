@@ -1,0 +1,5053 @@
+[
+  {
+    "entrevista": "E-dd8af93c",
+    "categoria": "Positivo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "No lo que hay q hacer es saber usarlo y utilizarlo en la ramas de su conocimiento",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f236d86",
+    "categoria": "Positivo",
+    "concepto": "Servicio y atención al cliente",
+    "tema": "Ventas y clientes",
+    "fragmento": "Atención a clientes claves, además administración general, proveedores y responsabilidades de la empresa con instituciones",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f236d86",
+    "categoria": "Interesante",
+    "concepto": "Multimodalidad",
+    "tema": "Interacción con IA",
+    "fragmento": "Desde herramientas básicas como el teléfono y chats, uso de computador personal y llamadas.",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f236d86",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Agiliza búsqueda de información que antes lograba directamente con motores de búsqueda como Google",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f236d86",
+    "categoria": "Positivo",
+    "concepto": "Análisis de datos",
+    "tema": "Datos y analítica",
+    "fragmento": "Cruzar información por ejemplo ventas con inventarios para establecer máximos y mínimos. También reportes mensuales, gráficos etc que normalmente se hacen paso a paso",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f236d86",
+    "categoria": "Positivo",
+    "concepto": "Programación y desarrollo",
+    "tema": "Desarrollo tecnológico",
+    "fragmento": "Primero confidencialidad, segundo poder integrar la IA a los sistemas transaccionales de la empresa y que no depende de reportes extraídos en otras plataformas, como Excel, pero bien podría ser un inicio",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f236d86",
+    "categoria": "Negativo",
+    "concepto": "Privacidad y confidencialidad",
+    "tema": "Riesgos y gobernanza",
+    "fragmento": "Primero confidencialidad, segundo poder integrar la IA a los sistemas transaccionales de la empresa y que no depende de reportes extraídos en otras plataformas, como Excel, pero bien podría ser un inicio",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f236d86",
+    "categoria": "Interesante",
+    "concepto": "Integración de sistemas",
+    "tema": "Desarrollo tecnológico",
+    "fragmento": "Primero confidencialidad, segundo poder integrar la IA a los sistemas transaccionales de la empresa y que no depende de reportes extraídos en otras plataformas, como Excel, pero bien podría ser un inicio",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f236d86",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Interpretación correcta de tablas de contenido y una asociación de valores claves que realmente generen resultados y valores confiables",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f236d86",
+    "categoria": "Positivo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "Hay muchas tareas que habría que ver la dinámica que se utiliza para captar información de ventas de los clientes, por ejemplo listados de mercadería para hacer proformas de ventas previas a la compra, pero la dinámica de los clientes es variada, desde mensajes escritos por chat, audios, listas por correo, llamadas telefónicas. Y además hay que interpretar a veces lo que realmente necesitan.",
+    "mensajes_csv": [
+      21
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f236d86",
+    "categoria": "Interesante",
+    "concepto": "Multimodalidad",
+    "tema": "Interacción con IA",
+    "fragmento": "Hay muchas tareas que habría que ver la dinámica que se utiliza para captar información de ventas de los clientes, por ejemplo listados de mercadería para hacer proformas de ventas previas a la compra, pero la dinámica de los clientes es variada, desde mensajes escritos por chat, audios, listas por correo, llamadas telefónicas. Y además hay que interpretar a veces lo que realmente necesitan.",
+    "mensajes_csv": [
+      21
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f236d86",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Sería una herramienta clave de trabajo, claro",
+    "mensajes_csv": [
+      23
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9729788f",
+    "categoria": "Positivo",
+    "concepto": "Ventas y comercialización",
+    "tema": "Ventas y clientes",
+    "fragmento": "Soy gerente de sucursal de una cooperativa de ahorro y crédito, Coopenae. Mi atención se enfoca en la gestión comercial de la sucursal para el alcance de objetivos en colocación de crédito y captación de dinero",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9729788f",
+    "categoria": "Negativo",
+    "concepto": "Finanzas y contabilidad",
+    "tema": "Administración y finanzas",
+    "fragmento": "Si, robots de decisión basados en riesgo que indican si un crédito se puede o no se puede otorgar",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9729788f",
+    "categoria": "Interesante",
+    "concepto": "Finanzas y contabilidad",
+    "tema": "Administración y finanzas",
+    "fragmento": "Si, robots de decisión basados en riesgo que indican si un crédito se puede o no se puede otorgar",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9729788f",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Los robots se nutren de información estadística y bases de datos para entregar reporteria que facilidad la toma de decisiones respecto a casos específicos y otorgamiento de crédito. Esto ahorra mucho tiempo que anteriormente se tenía que hacer manualmente.",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9729788f",
+    "categoria": "Interesante",
+    "concepto": "Automatización de tareas",
+    "tema": "Automatización y productividad",
+    "fragmento": "Los robots se nutren de información estadística y bases de datos para entregar reporteria que facilidad la toma de decisiones respecto a casos específicos y otorgamiento de crédito. Esto ahorra mucho tiempo que anteriormente se tenía que hacer manualmente.",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9729788f",
+    "categoria": "Positivo",
+    "concepto": "Correo electrónico",
+    "tema": "Comunicación digital",
+    "fragmento": "Lo utilicé para revisar y corregir la redacción de un correo electrónico",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9729788f",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "Si solicité una imagen con un comando específico pero la aplicación no atendió las instrucciones tal como se le solicitó",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9729788f",
+    "categoria": "Positivo",
+    "concepto": "ChatGPT",
+    "tema": "Herramientas de IA",
+    "fragmento": "Cambié de aplicación, inicialmente utilicé Gemini y me trasladé a Chatgpt",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9729788f",
+    "categoria": "Interesante",
+    "concepto": "Experimentación / prueba y error",
+    "tema": "Aprendizaje práctico",
+    "fragmento": "Cambié de aplicación, inicialmente utilicé Gemini y me trasladé a Chatgpt",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9729788f",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Obtuve el resultado que buscaba",
+    "mensajes_csv": [
+      21
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9729788f",
+    "categoria": "Negativo",
+    "concepto": "Fiabilidad y verificación",
+    "tema": "Riesgos y gobernanza",
+    "fragmento": "La IA debe ser alimentada con información responsable y fiable. Al final de cuentas los resultados que le otorga a sus usuarios proviene de fuentes de información aportada por humanos y por lo tanto si este criterio o se cumple no va a ser tan eficiente y fiable como se esperaria",
+    "mensajes_csv": [
+      25
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e3bf4be5",
+    "categoria": "Interesante",
+    "concepto": "Datos y bases de datos",
+    "tema": "Datos y analítica",
+    "fragmento": "Le suministre varias bases de datos cuantificables y de varios sectores",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e3bf4be5",
+    "categoria": "Positivo",
+    "concepto": "Generación de imágenes",
+    "tema": "Generación de contenido",
+    "fragmento": "diseño de imágenes pues no contextualiza bien lo expuesto y requiere mucha revisión",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e3bf4be5",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "no comprendía generando un contenido muy artificial",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e3bf4be5",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "utilizo las IA cada una para procesos diferenciados",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e3bf4be5",
+    "categoria": "Interesante",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "utilizo las IA cada una para procesos diferenciados",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e3bf4be5",
+    "categoria": "Positivo",
+    "concepto": "Claude",
+    "tema": "Herramientas de IA",
+    "fragmento": "Chat como herramienta para texto me ha permitido construir mejores pront para Claud",
+    "mensajes_csv": [
+      23
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e3bf4be5",
+    "categoria": "Interesante",
+    "concepto": "Automatización de tareas",
+    "tema": "Automatización y productividad",
+    "fragmento": "Poder sustraer la información de data puntual en forma autónoma sin depender de cargarle",
+    "mensajes_csv": [
+      25
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-69c5925d",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Un cambio radical sin embargo hay que enseñarles a utilizarla correctamente",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-69c5925d",
+    "categoria": "Negativo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Cuando se creo el Internet nos lanzaron a nadar sin salvavidas ahora con la IA  no nos debe pasar lo mismo ya que las consecuencias podrían ser devastadoras",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-69c5925d",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Cuando se creo el Internet nos lanzaron a nadar sin salvavidas ahora con la IA  no nos debe pasar lo mismo ya que las consecuencias podrían ser devastadoras",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-69c5925d",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Que la utilicen para resolver problemas sin saber como o para que lo hace. No queremos depender de la IA ya que ella debería depender de nosotros",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-69c5925d",
+    "categoria": "Negativo",
+    "concepto": "Dependencia de IA",
+    "tema": "Riesgos y gobernanza",
+    "fragmento": "Que la utilicen para resolver problemas sin saber como o para que lo hace. No queremos depender de la IA ya que ella debería depender de nosotros",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-69c5925d",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Hago actividades en la cual los estudiantes primero piensen en que quieran hacer o realizar y lo ejecuten con IA mediante promp muy específicos. Y al final reflexionar con ellos si era eso lo que querían o no y porque y como podrían mejorar el resultado sin uso de IA",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-69c5925d",
+    "categoria": "Interesante",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Hago actividades en la cual los estudiantes primero piensen en que quieran hacer o realizar y lo ejecuten con IA mediante promp muy específicos. Y al final reflexionar con ellos si era eso lo que querían o no y porque y como podrían mejorar el resultado sin uso de IA",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-69c5925d",
+    "categoria": "Negativo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Claro en una actividad de desarrollo visual en la que tenían que generar una imagen de su emprendimiento con todo los detalles. Los resultados no fueron los esperamos y ellos terminaron entendiendo que s",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-69c5925d",
+    "categoria": "Negativo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Que sin las indicaciones necesarias y justas la IA no genera lo deseado sino lo pedido en un poco de instrucciones",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-69c5925d",
+    "categoria": "Negativo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Creo que es una de las dificultades entre muchas otras sin embargo la preocupación real es que la educación de la IA deberia de ser desde los más chicos hasta lo mas grandes.",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-69c5925d",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Creo que es una de las dificultades entre muchas otras sin embargo la preocupación real es que la educación de la IA deberia de ser desde los más chicos hasta lo mas grandes.",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-69c5925d",
+    "categoria": "Positivo",
+    "concepto": "Educación y aprendizaje",
+    "tema": "Educación y capacidades",
+    "fragmento": "He aprendido a utilizarla sin depender de ella y me ha ayudado mucho.",
+    "mensajes_csv": [
+      21
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-fbfff1a9",
+    "categoria": "Positivo",
+    "concepto": "Ventas y comercialización",
+    "tema": "Ventas y clientes",
+    "fragmento": "Mantener los compromisos con los clientes, gestionar los cobros adecuados con las aseguradoras, mantener el servicio al cliente oportuno y óptimo, generar estrategias de ventas",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-fbfff1a9",
+    "categoria": "Positivo",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Claude nos ayudó a generar nuestra propia herramienta de seguimiento y control a la cual llamamos THEIRA",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-fbfff1a9",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Claude nos ayudó a generar nuestra propia herramienta de seguimiento y control a la cual llamamos THEIRA",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-fbfff1a9",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "La inteligencia fue creando todo mientras le explicábamos lo que necesitábamos y hasta un módulo de pagos y cobros así como RRHH nos creó",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-fbfff1a9",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "Claro fue una tarea de prueba y error!",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-fbfff1a9",
+    "categoria": "Interesante",
+    "concepto": "Experimentación / prueba y error",
+    "tema": "Aprendizaje práctico",
+    "fragmento": "Claro fue una tarea de prueba y error!",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-fbfff1a9",
+    "categoria": "Positivo",
+    "concepto": "WhatsApp / mensajería",
+    "tema": "Comunicación digital",
+    "fragmento": "En la interfaz de conexión entre THEIRA y WhatsApp fue difícil y frustrante pero se logró",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-fbfff1a9",
+    "categoria": "Negativo",
+    "concepto": "Integración de sistemas",
+    "tema": "Desarrollo tecnológico",
+    "fragmento": "En la interfaz de conexión entre THEIRA y WhatsApp fue difícil y frustrante pero se logró",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f080765",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Si, me ayuda con recetas y concejos de cocina y distribuidores costos y otros",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f080765",
+    "categoria": "Positivo",
+    "concepto": "Procesos empresariales",
+    "tema": "Procesos empresariales",
+    "fragmento": "En un proceso de tiempo de coacción, agregar un ingrediente para dar más vida útil a las cajetas",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f080765",
+    "categoria": "Positivo",
+    "concepto": "Ventas y comercialización",
+    "tema": "Ventas y clientes",
+    "fragmento": "Le di una lista detallada de puntos de venta, me ayudo a bajar costos de combustible y mejorar las rutas de reparto",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f080765",
+    "categoria": "Positivo",
+    "concepto": "Producción",
+    "tema": "Operaciones y logística",
+    "fragmento": "Tal vez usando una bicion a futuro crecimiento de mi empresa, mejorando algunas formas de distribuir y producir mis productos",
+    "mensajes_csv": [
+      21
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f080765",
+    "categoria": "Interesante",
+    "concepto": "Producción",
+    "tema": "Operaciones y logística",
+    "fragmento": "Tal vez usando una bicion a futuro crecimiento de mi empresa, mejorando algunas formas de distribuir y producir mis productos",
+    "mensajes_csv": [
+      21
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-621d6ab8",
+    "categoria": "Positivo",
+    "concepto": "Ventas y comercialización",
+    "tema": "Ventas y clientes",
+    "fragmento": "Tengo dos actividades: soy asesor legal de una zona franca y también tengo, junto con mi esposa, una empresa que produce y comercializa hongo ostra.",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-621d6ab8",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "En ambas facetas utilizo mucho IA, en concreto Claude.",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-621d6ab8",
+    "categoria": "Interesante",
+    "concepto": "Redacción y edición",
+    "tema": "Generación de contenido",
+    "fragmento": "Sí, por ejemplo para buscar y analizar jurisprudencia, detectar contradicciones en textos, redacción de documentos rutinarios y no rutinarios, investigar derecho comparado.",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-621d6ab8",
+    "categoria": "Positivo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "Al inicio de mi experiencia usaba ChatGPT y eso me pasó hasta que pude entrenar bien mi herramienta y aprender a usarla mejor. Luego pasé a Claude y me ha funcionado muy bien y lo tengo muy bien parametrizado para mis usos y proyectos específicos.",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-621d6ab8",
+    "categoria": "Positivo",
+    "concepto": "Claude",
+    "tema": "Herramientas de IA",
+    "fragmento": "Con Claude tengo muy bien elaboradas las instrucciones y reglas de operación. Y uso skills creadas por mi para atender de manera personalizada mis flujos de trabajo.",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-621d6ab8",
+    "categoria": "Positivo",
+    "concepto": "Integración de sistemas",
+    "tema": "Desarrollo tecnológico",
+    "fragmento": "Sí, la integración con archivos de Office y como extensión agéntica en el navegador. También la capacidad agéntica.",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-621d6ab8",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Sí, las funciones de Code y la creación de artefactos",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f488c08",
+    "categoria": "Positivo",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Juega un papel muy importante para publicitar mi producto con nuevos clientes. También te comento que soy el fabricante de estos trajes lo cual se me facilita poder dar mantenimiento y crear nuevas opciones para nuevos clientes.",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f488c08",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Juega un papel muy importante para publicitar mi producto con nuevos clientes. También te comento que soy el fabricante de estos trajes lo cual se me facilita poder dar mantenimiento y crear nuevas opciones para nuevos clientes.",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Medio",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f488c08",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Si claro e usado la IA para ayudarme a promocionar mis creaciones.",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f488c08",
+    "categoria": "Positivo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "Bueno e creado un robot para publicidad le llamo el PubliBot o Megabots de Publicidad. El tiene una pantalla en su pecho donde las empresas pueden poner sus logos o información importante. Tome fotos del personaje y le pedí a la IA que me ayudara a desarroyar una presentación para promocionar este nuevo robot",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f488c08",
+    "categoria": "Interesante",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Bueno e creado un robot para publicidad le llamo el PubliBot o Megabots de Publicidad. El tiene una pantalla en su pecho donde las empresas pueden poner sus logos o información importante. Tome fotos del personaje y le pedí a la IA que me ayudara a desarroyar una presentación para promocionar este nuevo robot",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f488c08",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Claro que funcionó",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f488c08",
+    "categoria": "Positivo",
+    "concepto": "Presentaciones",
+    "tema": "Generación de contenido",
+    "fragmento": "Bueno lógicamente la forma de expresar las ideas de lo que quería decir, además me ayudo arreglando la fotografia y poniendo un mejor fondo para una mejor presentación",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f488c08",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Si varias veses para lograr el resultado final",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f488c08",
+    "categoria": "Interesante",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Si varias veses para lograr el resultado final",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f488c08",
+    "categoria": "Positivo",
+    "concepto": "Prompts e instrucciones",
+    "tema": "Interacción con IA",
+    "fragmento": "Bueno la forma de darle las indicaciones con detalles presisos es lo que hace que cada vez sñtrabaje mejor",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-6f488c08",
+    "categoria": "Negativo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "No siempre que se le dé la información correcta saldrá lo esperado",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-859592bb",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Si correcto, he utilizado ciertas herramientas de IA",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-0189d7e8",
+    "categoria": "Positivo",
+    "concepto": "Fiabilidad y verificación",
+    "tema": "Riesgos y gobernanza",
+    "fragmento": "Pues un papel importante, me ayuda a potenciar los planteamientos, a revisar los trabajos, a entender más de los que puedo hacer.",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-0189d7e8",
+    "categoria": "Positivo",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Creo que ambas, en algunos aspectos yo le proponía caminos y funcionaba más como asistente y en otros ampliaba algunas ideas.",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-0189d7e8",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "Si, en una parte de la fórmula, en un análisis de la vacancia, la IA interpretó que era un aspecto porcentual y era absoluto. Un error que no vio hasta que yo se lo hice notar, me dio la razón y me explicó que efectivamente su interpretación estaba mal.",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-0189d7e8",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Porque prefiero tener yo el planteamiento e idea, creo que la IA podría plantear ideas que posteriormente no pueda realizar.",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-0189d7e8",
+    "categoria": "Positivo",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Creo que un hecho específico no, la interacción diaria con la IA hace que día a día pueda ir adoptándola y mejorando.",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-3f51d3d1",
+    "categoria": "Positivo",
+    "concepto": "Documentos",
+    "tema": "Gestión de información",
+    "fragmento": "Sí, la utilizo como apoyo en la elaboración de documentos para los trámites de compra",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-3f51d3d1",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Me ayuda a definir el perfil del proyecto, partes interesadas, finalidad o interés público, entre otras",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-3f51d3d1",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Ahorro de tiempo, interpretación de términos legales, mayor calidad en redacción",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-3f51d3d1",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Me sorprendió, no tenía ni idea que eso era posible ni cómo logró ingresar a mi cuenta",
+    "mensajes_csv": [
+      25
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-3f51d3d1",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Mejorar los pront",
+    "mensajes_csv": [
+      31
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-666fda31",
+    "categoria": "Positivo",
+    "concepto": "Claude",
+    "tema": "Herramientas de IA",
+    "fragmento": "Sí claro mi asistente júniores es el chat  , aunque también hago uso de Gemini, Claude, según corresponda",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-c276a916",
+    "categoria": "Positivo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "Gerencia general, la información que me ayuda en el día a día dar seguimiento de las actividades más importantes; ventas, bancos, despacho de productos y otros",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-c276a916",
+    "categoria": "Positivo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "utilizo un API obtener información al día mediante consulta de la misma IA",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-c276a916",
+    "categoria": "Positivo",
+    "concepto": "Datos y bases de datos",
+    "tema": "Datos y analítica",
+    "fragmento": "No,  básicamente ordena los datos. O me facilita la búsqueda",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-c276a916",
+    "categoria": "Negativo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "De momento no he tenido problemas",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-c276a916",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "He sido práctico,  pensando que “todo” tipo de uso. Incluso me han facilitado trabajo. Haciendo un resumen, analizándome un documento. Calculando para mi fórmulas diferentes que entes me demandaba tiempo en búsqueda de indicadores. Ahora solo lo pido y obtengo resultados",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-c276a916",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "No, solo hemos interactuando para ir más allá del resultado. Explorando hasta llegar cada ven más a una mejor respuesta a lo buscado",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-c276a916",
+    "categoria": "Positivo",
+    "concepto": "Fiabilidad y verificación",
+    "tema": "Riesgos y gobernanza",
+    "fragmento": "Porque yo entiendo y sé muy bien que busco. Puedo interpretar con base a mi experiencia profesional y analice los criterios",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-c276a916",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Sin lugar a duda, la rapidez, precisión en la información. También que es (la IA) muy organizada. Casi perfecta en los presentación de datos",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-02ba0750",
+    "categoria": "Positivo",
+    "concepto": "Copilot",
+    "tema": "Herramientas de IA",
+    "fragmento": "Copilot me ha ayudado mucho para atender recursos de apelación en procesos de compras, en resoluciones administrativas y análisis en general",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-694ca20b",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "La utilizamos en todas las áreas",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-694ca20b",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Para crear informes para los clientes, para la parte contable, además para la generación de contenido tanto videos o imágenes",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Medio",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-694ca20b",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "Si ha sucedido pero normalmente ha sido un error humano a la hora de descargar los datos",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-694ca20b",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Hay que tener mucho cuidado para que las imágenes generadas no sean parecidas a otras, la calidad de la IA a mejorado sustancialmente, usamos para generar partes de una imagen, para generar videos completos que se nos dificulta tenerlos de parte del cliente, además he creado estrategias completas con la IA que han tenido excelentes resultados",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-694ca20b",
+    "categoria": "Negativo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Hay que tener mucho cuidado para que las imágenes generadas no sean parecidas a otras, la calidad de la IA a mejorado sustancialmente, usamos para generar partes de una imagen, para generar videos completos que se nos dificulta tenerlos de parte del cliente, además he creado estrategias completas con la IA que han tenido excelentes resultados",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-694ca20b",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Genere 15 imágenes y copys para un centro quirúrgico ambulatorio para lograr aumentar sus cirugías esto lo hice en aproximadamente 2 horas las creación y la estrategia de montar las campañas 5 hrs el resultado fue inmediato para el centro",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-694ca20b",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Si aún la parte humana no es captable en los videos o se tendría que gastar dem dinero para lograrlo en tokens",
+    "mensajes_csv": [
+      21
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-ef3d250f",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Yo redacto informes o ofertas de trabajo y me ahorro mucho tiempo en pensar una redacción correcta y entendible , además revisa mis ofertas versus las solicitudes del cliente y me indica que debo mejorar para ajustarle al documento que voy a entregar",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-ef3d250f",
+    "categoria": "Positivo",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Me parece que cuando intente analizar procesos con los datos que tenía, pero creo que también se debe a que no tenía una base de datos solida",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-ef3d250f",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "No lograba los resultados que esperaba",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-ef3d250f",
+    "categoria": "Negativo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "No lograba los resultados que esperaba",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-ef3d250f",
+    "categoria": "Positivo",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Empecé a crear una base de datos que a futuro fuera más útil para analizar",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-ef3d250f",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Empecé a crear una base de datos que a futuro fuera más útil para analizar",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-ef3d250f",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Plataformas con mas herramientas fáciles de conectar a otras app que yo use y además una versión hablada que ayude a generar una ibteraccion más dinamica",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-cca5c664",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Ya se tiene optimizado por medio de SAP",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-cca5c664",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "No he utilizado",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-cca5c664",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Con la validación de que funciona y ahorra tiempo",
+    "mensajes_csv": [
+      29
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-4fed92ee",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "claro, principalmente para revisar y crear documentos",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Medio",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-4fed92ee",
+    "categoria": "Negativo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "le envíe dos documentos, quería que tomara la información de uno y el formato de el otro para crear un documento con un formato mas ejecutivo y el resultado no fue el esperado",
+    "mensajes_csv": [
+      31
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-4fed92ee",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "le envíe dos documentos, quería que tomara la información de uno y el formato de el otro para crear un documento con un formato mas ejecutivo y el resultado no fue el esperado",
+    "mensajes_csv": [
+      31
+    ],
+    "confianza_analisis": "Medio",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-b6d82960",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Exacto, suelo usar mucho notebook Gemini para resumen de requisitos e información, chat gpt para mejora de redacción y copilot",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-b6d82960",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "Si, especialmente en chat gpt, que genera muchos errores o la información que da tienen un formato muy estructurado como limitante del desarrollo de la respuesta",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-b6d82960",
+    "categoria": "Positivo",
+    "concepto": "ChatGPT",
+    "tema": "Herramientas de IA",
+    "fragmento": "Realmente no genera errores como tal sino que siempre las respuestas son estructuradas, y en la parte de elaborar imagenes publicitarias cambia los rostros de las personas y tiene formatos de imagenes también muy estructurados que se sabe son hechos por chat gpt",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-b6d82960",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "Realmente no genera errores como tal sino que siempre las respuestas son estructuradas, y en la parte de elaborar imagenes publicitarias cambia los rostros de las personas y tiene formatos de imagenes también muy estructurados que se sabe son hechos por chat gpt",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-b6d82960",
+    "categoria": "Positivo",
+    "concepto": "Prompts e instrucciones",
+    "tema": "Interacción con IA",
+    "fragmento": "Se debe detallarme muy bien el prompt, solo así funciona aceptablemente",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-b6d82960",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Copilot lo uso para revisar trabajos, porque también soy profesora universitaria, pero igualmente es super estructurado y a pesar de que tengo copilot pago a veces tienen un limited muy bajo de generación de imagenes o simplemente dice que no puede generar la imagen por error de la inteligencia artificial",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-b6d82960",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "Copilot lo uso para revisar trabajos, porque también soy profesora universitaria, pero igualmente es super estructurado y a pesar de que tengo copilot pago a veces tienen un limited muy bajo de generación de imagenes o simplemente dice que no puede generar la imagen por error de la inteligencia artificial",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-b6d82960",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Si, para mi notebook Gemini es una inteligencia artificial fantástica es la que mejor me ayuda profesionalmente",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-2354c939",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "En la revisión de contratos legales, encontrar errores. Previo a la revisión de legal",
+    "mensajes_csv": [
+      9,
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-2354c939",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "En la revisión de contratos legales, encontrar errores. Previo a la revisión de legal",
+    "mensajes_csv": [
+      9,
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-2354c939",
+    "categoria": "Positivo",
+    "concepto": "Datos y bases de datos",
+    "tema": "Datos y analítica",
+    "fragmento": "Si me ayuda a evitar errores digitacion de datos, a poder verificar que se cumpla con las fechas , medir tiempos , error comunes",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-2354c939",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "Si me ayuda a evitar errores digitacion de datos, a poder verificar que se cumpla con las fechas , medir tiempos , error comunes",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-2354c939",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Así mejorar en los próximos",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-12c5aa53",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Lentos y con poca visión de ahorro de tiempo para agilizar los procesos",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-12c5aa53",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Se re programa más rápido y agiliza los procesos",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-946ebe48",
+    "categoria": "Positivo",
+    "concepto": "Redes sociales",
+    "tema": "Marketing y comunicación",
+    "fragmento": "Siempre se utiliza para que nos ayude con cartas formales a darle formalidad, para que nos ayude a diseñar ideas nuevas para decorar espacios, invitaciones, portadas de redes sociales",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-946ebe48",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Claro cuando nos ayuda a diseñar o decorar espacios con una sola foto del espacio",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-946ebe48",
+    "categoria": "Interesante",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Siempre le envío la foto y además le digo más o menos que deseo hacer y que me de varias ideas",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-946ebe48",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Siempre me funcionan pero no las hacemos tal cual porque no siempre tenemos todos los implementos necesarios",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-946ebe48",
+    "categoria": "Positivo",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "No la descarto y pago a un profesional para que me ayude a crearla",
+    "mensajes_csv": [
+      21
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-946ebe48",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "No la descarto y pago a un profesional para que me ayude a crearla",
+    "mensajes_csv": [
+      21
+    ],
+    "confianza_analisis": "Medio",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-946ebe48",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Talvez que sea un poquito más real con las cosas y que capte las ideas que uno le dice mejor",
+    "mensajes_csv": [
+      27
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5de9bf0c",
+    "categoria": "Positivo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "Ese lo utilizamos básicamente para mostrar el cierre de cada mes, brindando información como el cierre de la cartera de crédito, la meta de cobro, el cierre de la meta, promedio de pago, morosidad de la cartera, etc.",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5de9bf0c",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Anteriormente yo lo realizaba \"manual\" desde Excel,  pero implementamos esta dasboard para agilizar el trabajo",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5de9bf0c",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "En realidad básicamente es agilizar el tiempo que me requería preparar esta información para mostrarla al comité de credito mes a mes, lo que corresponde a analizar la información o tomar decisiones lo hago yo con base en los resultados que me muestra el dashboard",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5de9bf0c",
+    "categoria": "Positivo",
+    "concepto": "Análisis de datos",
+    "tema": "Datos y analítica",
+    "fragmento": "Me ayuda a redactar mensajes de cobro, a analizar datos, y me ha ayudado por ejemplo a entender como se guarda un archivo en Google drive, como hacer diferentes funciones en Excel, a buscar información o organizar información 3n documentos de Excel, etc",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5de9bf0c",
+    "categoria": "Positivo",
+    "concepto": "Prompts e instrucciones",
+    "tema": "Interacción con IA",
+    "fragmento": "En todo lo que he requerido. Siempre que tengo dudas sobre algo en mi trabajo le pido ayuda y siempre de una u otra manera me soluciona",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5de9bf0c",
+    "categoria": "Positivo",
+    "concepto": "Documentos",
+    "tema": "Gestión de información",
+    "fragmento": "Le envíe el documento y el hizo el cálculo y me indicó el porcentaje en cada rubro y me ayudó a hacer una tabla con fórmulas para solo digitsr los montos y que el me siga indicando los %",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5de9bf0c",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "No, incluso ahora tengo la versión de paga porque me resulta sumamente útil tanto en mi trabajo como en mi diario vivir",
+    "mensajes_csv": [
+      25
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-365e4f5f",
+    "categoria": "Interesante",
+    "concepto": "Multimodalidad",
+    "tema": "Interacción con IA",
+    "fragmento": "hola soy ingeniero en sistemas de informacion, normalmente trabajo en diseño, redes sociales, produccion audiovisual",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-365e4f5f",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "estoy creando sitios web y con la ia puedo crear componentes para hacer mis sitios web totalmente a mi gusto y necesidades",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Medio",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-365e4f5f",
+    "categoria": "Positivo",
+    "concepto": "Servicio y atención al cliente",
+    "tema": "Ventas y clientes",
+    "fragmento": "hice un sitio web de control donde lleva un crm de mis clientes, ahi llevo el control de trabajo donde puedo ver lo que estoy haciendo y tengo q hacer, ademas tiene un timer donde me muestra el tiempo de trabajo en cada tarea, al inicia el dia puedo ver que tengo pendiente y que tengo q hacer para hoy, asi me ordeno en mis tareas, con mis clientes, y lograr que el mismo cliente pueda acceder al web y ver como van sus trabajos y entregables",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-365e4f5f",
+    "categoria": "Positivo",
+    "concepto": "Fiabilidad y verificación",
+    "tema": "Riesgos y gobernanza",
+    "fragmento": "correcto durante el avance, tenemos una guia de trabajo paso a paso que de acuerdo a lo que va apareciendo puede ir mejorando ampliando o cambiando, encontramos una nueva necesidad y se agrega al plan de trabajo",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-365e4f5f",
+    "categoria": "Negativo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "si a veces se generaba algo que no era lo esperado y tocaba volver a probar o empezar de nuevo",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-365e4f5f",
+    "categoria": "Positivo",
+    "concepto": "Datos y bases de datos",
+    "tema": "Datos y analítica",
+    "fragmento": "si se trabaja en entorno de desarrollo y pruebas para cuando ya este probado y ajustado pasarlo a entorno ya real, pero se prueba siempre con datos y posible cambios que todo funcione bien",
+    "mensajes_csv": [
+      21
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-365e4f5f",
+    "categoria": "Negativo",
+    "concepto": "Datos y bases de datos",
+    "tema": "Datos y analítica",
+    "fragmento": "si se trabaja en entorno de desarrollo y pruebas para cuando ya este probado y ajustado pasarlo a entorno ya real, pero se prueba siempre con datos y posible cambios que todo funcione bien",
+    "mensajes_csv": [
+      21
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-365e4f5f",
+    "categoria": "Interesante",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "en este momento es parte fundamental, yo soy el director de la obra, tengo un chat donde es mi sala de juntas donde tomamos las deciciones y tengo mi ia para trabajar y avanzar la parte de desarrollo, podria decir que somos una empresa de 3, yo y 2 IA",
+    "mensajes_csv": [
+      23
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-731d2e8a",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Tal vez en el corte de las cajetas, sería muy bueno tener una maquina que me pudiera ayudar con eso, ya que todo el trabajo se hace a mano",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-731d2e8a",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Si claro, también busco de su ayuda cuando quiero hacer un baner publicitario de nuestros productos",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-731d2e8a",
+    "categoria": "Positivo",
+    "concepto": "Prompts e instrucciones",
+    "tema": "Interacción con IA",
+    "fragmento": "Claro, le paso foto de nuestros productos, le pido que tenga nuestra marca(SABB El Fogón de Mamá) y que diga 100%Costarricenses también que Tenga el número telefónico",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-731d2e8a",
+    "categoria": "Positivo",
+    "concepto": "Prompts e instrucciones",
+    "tema": "Interacción con IA",
+    "fragmento": "Si me ha pasado, pero le pido que lo mejore y lo hace",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-1901bb7d",
+    "categoria": "Positivo",
+    "concepto": "Procesos empresariales",
+    "tema": "Procesos empresariales",
+    "fragmento": "Me dedico a coordinar un equipo de producción audiovisual para videocomunicación. \n\nEn mi trabajo me encargo de gestionar tanto el recurso humano, como todos aquellos otros recursos y las condiciones requeridas para lograr el proceso de producción audiovisual para videocomunicación de contenido académico y de agenda universitaria.",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-1901bb7d",
+    "categoria": "Interesante",
+    "concepto": "Multimodalidad",
+    "tema": "Interacción con IA",
+    "fragmento": "Me dedico a coordinar un equipo de producción audiovisual para videocomunicación. \n\nEn mi trabajo me encargo de gestionar tanto el recurso humano, como todos aquellos otros recursos y las condiciones requeridas para lograr el proceso de producción audiovisual para videocomunicación de contenido académico y de agenda universitaria.",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-1901bb7d",
+    "categoria": "Positivo",
+    "concepto": "Producción",
+    "tema": "Operaciones y logística",
+    "fragmento": "Sí claro, actualmente han surgido muchas herramientas que facilitan tarea y permiten ganar tiempo en difieres áreas de producción audiovisual para videocomunicación, por ejemplo: Evanto, Kling AI, OPUS, entre otras.",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-1901bb7d",
+    "categoria": "Interesante",
+    "concepto": "Multimodalidad",
+    "tema": "Interacción con IA",
+    "fragmento": "Sí claro, actualmente han surgido muchas herramientas que facilitan tarea y permiten ganar tiempo en difieres áreas de producción audiovisual para videocomunicación, por ejemplo: Evanto, Kling AI, OPUS, entre otras.",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-1901bb7d",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Validez, fundamentación y precisión del contenido. Que esté contextualizado a la realidad del estudiante, por ejemplo: No es lo mismo explicar “los colores del semáforo” para un estudiante de zuna rural, que para uno de zona urbana. \n\nEl contexto y ambiente de trabajo también se debe cuidar, para lograr el propósito educativo del contenido que se transmite en cada videocomunicación.",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-1901bb7d",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Si, en algún momento solicité a la IA un análisis base sobre un tema de RRHH y el resultado fue muy complejo, no me sirvió como base para nada y más bien perdí tiempo tratando de ordenar, analizar y concretar el análisis.",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-94e28335",
+    "categoria": "Positivo",
+    "concepto": "Redacción y edición",
+    "tema": "Generación de contenido",
+    "fragmento": "Si, ultilo una herramienta lalmada TurboScribe para transcribir textualmente del audio a texto. Ayuda bastante, pero transcribe literal, yo tengo que separar los hablantes, dar redacción y forma, corregir. Etc",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-94e28335",
+    "categoria": "Interesante",
+    "concepto": "Multimodalidad",
+    "tema": "Interacción con IA",
+    "fragmento": "Si, ultilo una herramienta lalmada TurboScribe para transcribir textualmente del audio a texto. Ayuda bastante, pero transcribe literal, yo tengo que separar los hablantes, dar redacción y forma, corregir. Etc",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-94e28335",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "El tener que primero separar por hablantes manualmente... luegl tener que ir corrigiendo el texto, ya que utilizan muletillas, repiten ideas, redundan",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-94e28335",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "La herramienta ayuda bastante al no tener que digitar todo yo manualmente. Me gustaría utilizar una herramienta que me ayude con la frase de edición o a separar lo que dice cada hablante",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-029c7a0b",
+    "categoria": "Positivo",
+    "concepto": "ChatGPT",
+    "tema": "Herramientas de IA",
+    "fragmento": "He utilizado chatgpt para ayuda en algunos análisis y elaboración de contratos legales",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-029c7a0b",
+    "categoria": "Positivo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "Se necesitaba la elaboración de un contrato legal, no se logró la ayuda de un abogado, por lo que con un pront adecuado y ayuda de gpt, logré recopilar información de legislación actual y elaborar un contrato adecuado a la necesidad",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-029c7a0b",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "La IA me dió pautas, el borrador lo elabore yo y tuvo el vb de legal para ser utilizado",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-029c7a0b",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Creo fue un ahorro significativo de tiempo al resumir los parámetros y lugares de búsqueda dándome información específica",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e8b47fa5",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "para consultar por mejores soluciones en la implementación de alguna necesidad, tamvbirn estamos implementando sdd",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e8b47fa5",
+    "categoria": "Positivo",
+    "concepto": "Claude",
+    "tema": "Herramientas de IA",
+    "fragmento": "implementacion de algun bug como por ejemplo una mejora en una consulta de bd, utilizo claude",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e8b47fa5",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "lo utilizé tal cual",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e8b47fa5",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "si lo revise y luego lo utilicé",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-7339fab1",
+    "categoria": "Negativo",
+    "concepto": "Datos y bases de datos",
+    "tema": "Datos y analítica",
+    "fragmento": "Si el dar datos erróneos lo que es un riesgo muy alto",
+    "mensajes_csv": [
+      23
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-0690f110",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "soy administradora de una Agencia Aduanal, por lo general me dedico a presentar los duas rojos a los tecnicos de hacienda para q me liberen los mismos y me den levante, tambien se negocia con los aforadores para q no lo manden a dua razonable",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-0690f110",
+    "categoria": "Negativo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "el problema la idea primcipal",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-b764e6c6",
+    "categoria": "Positivo",
+    "concepto": "Claude",
+    "tema": "Herramientas de IA",
+    "fragmento": "Actualmente utilizamos Copilot para realizar investigación de procesos y controles, además tiene el LLM Claude que nos ayuda a analizar bases de datos en Excel o revisar contratos en word o pdf",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-b764e6c6",
+    "categoria": "Positivo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "Claro, muchos ejemplos, 1 sería ayudarme a analizar bases de datos de respuestas provenientes de encuestas con respuestas abiertas, me ayudó a analizar las tendencias de temas e identificar áreas de mejora, además me ayuda a revisar y resumir contratos de manera rápida y encontrar fallas contractuales. Y la más significativa sería q me ha ayudado a revisar grandes volúmenes de información como entrevistas, presentaciones, pdfs y demás y obtener temas relevantes para la organización ademas potenciales retos y oportunidades de mejora",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-b764e6c6",
+    "categoria": "Negativo",
+    "concepto": "Fiabilidad y verificación",
+    "tema": "Riesgos y gobernanza",
+    "fragmento": "Claro, muchos ejemplos, 1 sería ayudarme a analizar bases de datos de respuestas provenientes de encuestas con respuestas abiertas, me ayudó a analizar las tendencias de temas e identificar áreas de mejora, además me ayuda a revisar y resumir contratos de manera rápida y encontrar fallas contractuales. Y la más significativa sería q me ha ayudado a revisar grandes volúmenes de información como entrevistas, presentaciones, pdfs y demás y obtener temas relevantes para la organización ademas potenciales retos y oportunidades de mejora",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-b764e6c6",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "Si, me ha entregado información errónea en las respuestas, incluyendo alucinaciones especialmente con información relacionada a los contratos. Cuando se trata de excel o documentos que yo produzco, la cantidad de errores es mucho menor",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-b764e6c6",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "Primero, hice pruebas para verificar q la información que me daba el agente en este caso estaba correcta y allí fue cuandl noté los errores. Seguido, le indicaba al agente cual era información que necesitaba y como interpretar los resultados. Seguidamente, pude apreciar cm el gante ajustada sus criterios y las respuestas posteriores fueron más precisas",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-b764e6c6",
+    "categoria": "Positivo",
+    "concepto": "Datos y bases de datos",
+    "tema": "Datos y analítica",
+    "fragmento": "Puede ser la complejidad de los contratos, pues utilizan un lenguaje técnico además muchos datos numéricos especialmente con contratos de proveedores, entonces puede confundirse la respuesta si la pregunta quizás es muy vaga o abierta, requiriendo que los prompts sean muy especificos y eso no siempre es posible pues estamos refiriendo al uso de la herramienta para explorar o indagar sobre documentos q apenas estoy revisando por primera vez. Cuando yo conozco el material o contenido estoy mucho mejor preparado para identificar errores o potenciales alucinaciones",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-b764e6c6",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "Puede ser la complejidad de los contratos, pues utilizan un lenguaje técnico además muchos datos numéricos especialmente con contratos de proveedores, entonces puede confundirse la respuesta si la pregunta quizás es muy vaga o abierta, requiriendo que los prompts sean muy especificos y eso no siempre es posible pues estamos refiriendo al uso de la herramienta para explorar o indagar sobre documentos q apenas estoy revisando por primera vez. Cuando yo conozco el material o contenido estoy mucho mejor preparado para identificar errores o potenciales alucinaciones",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-b764e6c6",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "Pues no sigo un proceso especifico, lo que hago cuando veo algun potencial error o variación significativa hago una verificación manual por mi parte para seguramente q es correcta la apreciación del agente",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-b764e6c6",
+    "categoria": "Interesante",
+    "concepto": "Procesos empresariales",
+    "tema": "Procesos empresariales",
+    "fragmento": "Pues no sigo un proceso especifico, lo que hago cuando veo algun potencial error o variación significativa hago una verificación manual por mi parte para seguramente q es correcta la apreciación del agente",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9d4f2828",
+    "categoria": "Positivo",
+    "concepto": "Procesos empresariales",
+    "tema": "Procesos empresariales",
+    "fragmento": "Soy Coordinadora con la Empresa en un Colegio Técnico me ocupo mucho con empresarios y estudiantes porque mi función es  es colocar estudiantes en empresas para los procesos de Pasantías y prácticas profesionales",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9d4f2828",
+    "categoria": "Positivo",
+    "concepto": "Gemini",
+    "tema": "Herramientas de IA",
+    "fragmento": "Sí claro utilizo chat GTP, Gemini me facilita la redacción de correos o propuestas",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9d4f2828",
+    "categoria": "Positivo",
+    "concepto": "Correo electrónico",
+    "tema": "Comunicación digital",
+    "fragmento": "Era para empresarios la utilicé ayer donde le solicité que me ayudara a redactar un correo con las condiciones de inicio de pasantía, yo le doy todas las pautas e indicadores y reviso si me parece o corrijo",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9d4f2828",
+    "categoria": "Positivo",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "No, creo que la clave esta en dar las indicaciones claras de que es lo que ocupamos. Por ejemplo también ayudo en el comité de admisión y Cloud nos ayuda muchísimo porque se hizo todo un programa para el proceso de inscripción",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9d4f2828",
+    "categoria": "Positivo",
+    "concepto": "Programación y desarrollo",
+    "tema": "Desarrollo tecnológico",
+    "fragmento": "Es IA y nos ayuda a programar. Claro de eso no me encargo yo se encarga una persona de informática pero el aporte uña",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9d4f2828",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Todo se facilitó es más rápido y eficiente además de que existe una contraloria del servicio porque queda evidencia de lo que hacemos. Logramos un proceso más trasparente",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9d4f2828",
+    "categoria": "Positivo",
+    "concepto": "Prompts e instrucciones",
+    "tema": "Interacción con IA",
+    "fragmento": "Insisto si podemos darle las indicaciones podemos lograr grandes cosas",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-4b630499",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Soy Asistente de Gerencia, actualmente estoy en el área de estrategia de mejora de calidad del negocio (Centro Educativo), también el área creación de contenido para redes sociales (stories, posts, reels), y planeación de clases para estudiantes de colegio en la materia de Emprendimiento y Finanzas",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-4b630499",
+    "categoria": "Positivo",
+    "concepto": "Claude",
+    "tema": "Herramientas de IA",
+    "fragmento": "Claro, utilizo Claude para hacer los planeamientos de mis clases",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-4b630499",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "El mayor beneficio es que me ahorra mucho tiempo de trabajo, lo hace muy eficiente y me da una guía detallada, permitiéndome invertir el resto de mi tiempo en otras tareas",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-4b630499",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "No recuerdo una situación específica con esas características, sin embargo, si le doy a un AI una solicitud o tarea muy vaga, sin ser específica de lo que quiero como resultado, suele darme una respuesta que complica mi situación y me obliga a seguir \"devolviéndole\" el resultado hasta pulirlo como yo quiero o bien debo de hacerlo yo por mi cuenta",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-4b630499",
+    "categoria": "Positivo",
+    "concepto": "Prompts e instrucciones",
+    "tema": "Interacción con IA",
+    "fragmento": "Sí, definitivamente provee una ayuda bastante grata y acertada cuando las instrucciones son específicas y correctas. Dejándome sorprendida del bien trabajo que puede realizar y la gran ayuda que puede darme",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-4b630499",
+    "categoria": "Positivo",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "La utilicé para crear un plan de contenido para este segundo semestre en redes sociales",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-4b630499",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "La utilicé para crear un plan de contenido para este segundo semestre en redes sociales",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Medio",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-4b630499",
+    "categoria": "Positivo",
+    "concepto": "Marketing y contenido",
+    "tema": "Marketing y comunicación",
+    "fragmento": "Fue igual de útil en ambos casos. Para el plan de creación de contenido, le adjunte todas las fechas con actividades de la empresa, y le dije cuál era el objetivo en redes de este segundo semestre, pidiéndole que me hiciera un plan detallado de qué debo de subir cada día, en qué formato, con cual cta y utilizando el canva STDC",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-195032ad",
+    "categoria": "Positivo",
+    "concepto": "Excel / hojas de cálculo",
+    "tema": "Herramientas digitales",
+    "fragmento": "Si, de forma personal y exploratoria. He analizado hojas de cálculos y validado conceptos y muy util para corregir redacción, gramática y ortografía.",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-195032ad",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Anteriormente le decia revisar tal y tal cosa... ahora, le indico un rol con grado de experiencia. Le asigno una tarea donde detallo instrucciones por bloques. Le doy otras guías  como utilizar fuentes x y y, adjunto textos de referencia y por último le indico resultado esperado.",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-195032ad",
+    "categoria": "Negativo",
+    "concepto": "Fiabilidad y verificación",
+    "tema": "Riesgos y gobernanza",
+    "fragmento": "Anteriormente le decia revisar tal y tal cosa... ahora, le indico un rol con grado de experiencia. Le asigno una tarea donde detallo instrucciones por bloques. Le doy otras guías  como utilizar fuentes x y y, adjunto textos de referencia y por último le indico resultado esperado.",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-c71ea51a",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Si claro, y también desarrollando herramientas para mediciones estandarizar tareas",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-c71ea51a",
+    "categoria": "Positivo",
+    "concepto": "Finanzas y contabilidad",
+    "tema": "Administración y finanzas",
+    "fragmento": "También uno para control de horas extras, otro para análisis de importaciones y proyecciones de pagos",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-c71ea51a",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "En realidad ha sido muy útil en todos los aspectos",
+    "mensajes_csv": [
+      21
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-c71ea51a",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Seguir utilizando la herramienta y los nuevos desarrollos que nacen cada día",
+    "mensajes_csv": [
+      25
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-f816e38f",
+    "categoria": "Positivo",
+    "concepto": "Emprendimiento",
+    "tema": "Estrategia empresarial",
+    "fragmento": "Emprendedor de un proyecto de Tinta y Café. Una cafetería de café Premium, con librería y la oportunidad de leer un libro mientras toma café.",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-f816e38f",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Me interesa conocer como la tecnología me puede ayudar a gestionar Tinta y Café?",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-f816e38f",
+    "categoria": "Positivo",
+    "concepto": "Marketing y contenido",
+    "tema": "Marketing y comunicación",
+    "fragmento": "Me interesa el tema de mercadeo, cómo hacerlo para llevarle a este mercado meta?? También el tema de gestión de contenido me interesa mucho?",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-8e92d5f6",
+    "categoria": "Positivo",
+    "concepto": "Programación y desarrollo",
+    "tema": "Desarrollo tecnológico",
+    "fragmento": "Soy funcionario del MEP, trabajo en un Colegio Técnico, me ocupan mucho atención a estudiantes, funcionarios con conflictos, atención de Sistemas, revisión de correos, redacción de documentos como circulares, oficios, certificaciones, etc",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-8e92d5f6",
+    "categoria": "Positivo",
+    "concepto": "ChatGPT",
+    "tema": "Herramientas de IA",
+    "fragmento": "Sí ChatGPT, esa due la última, a veces tambien uso CANVA, para otras cosas",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-8e92d5f6",
+    "categoria": "Positivo",
+    "concepto": "Logística y rutas",
+    "tema": "Operaciones y logística",
+    "fragmento": "Sí ayuda a generar cuadros o distribuciones de roles en un horario",
+    "mensajes_csv": [
+      21
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-8e92d5f6",
+    "categoria": "Positivo",
+    "concepto": "Datos y bases de datos",
+    "tema": "Datos y analítica",
+    "fragmento": "Si lo hice, hay q explicarle bien los detalles de los roles, los nombres y apellidos y datos para que se ajuste por completo a lo que se requiere",
+    "mensajes_csv": [
+      23
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-8e32669c",
+    "categoria": "Positivo",
+    "concepto": "Educación y aprendizaje",
+    "tema": "Educación y capacidades",
+    "fragmento": "La filtro para mi uso inmediato y si resulta algo abrumadora pero es parte de lo que tengo que aprender para un mejor manejo del funcionamiento general de la empresa",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-8e32669c",
+    "categoria": "Positivo",
+    "concepto": "Prompts e instrucciones",
+    "tema": "Interacción con IA",
+    "fragmento": "Realizó una nueva instrucción en la que le indicó que tomando en cuenta lo ya solicitado realice una mejor propuesta con esto y lo otro",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5972e4e8",
+    "categoria": "Positivo",
+    "concepto": "Datos y bases de datos",
+    "tema": "Datos y analítica",
+    "fragmento": "En realidad me ha ayudado a ganar tiempo en carpintería de datos y poder enfocarme en tareas de mayor valor en la organización",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5972e4e8",
+    "categoria": "Positivo",
+    "concepto": "Prompts e instrucciones",
+    "tema": "Interacción con IA",
+    "fragmento": "Si en ocasiones pero me di cuenta que el prompt utilizado es de suma importancia para ser específico en lo que se desea obtener",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5bb5bf47",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Para lo que necesito no me funciona",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5bb5bf47",
+    "categoria": "Negativo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Para lo que necesito no me funciona",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5bb5bf47",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Sí viene ahorrar mucho tiempo",
+    "mensajes_csv": [
+      23
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5bb5bf47",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "En muchos procesos y se ahorra bastante tiempo",
+    "mensajes_csv": [
+      25
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5bb5bf47",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Todo lo hace bien",
+    "mensajes_csv": [
+      29
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-47c8fed5",
+    "categoria": "Positivo",
+    "concepto": "Procesos empresariales",
+    "tema": "Procesos empresariales",
+    "fragmento": "Hola, soy jefe administrativo, mi labor usualmente esta enfocada en direccionar e implementar metodologías de trabajo en distintos departamentos (Recursos Humanos y Salud Ocupacional) donde colaboren continuar de una manera acertiva la operación de la empresa y buscar brindar un servicio optimo para nuestros clientes velando por la seguridad, salud y personalidad de nuestros colaboradores",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-47c8fed5",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Estaba implementando planes de desarollo de personal, donde se tuvo que crear desde cero, solo con la base de ideas ya conversadas y plasmadas previamente donde la IA colaboro a desglosarlas e incorporarlas en un documento formal",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Medio",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-47c8fed5",
+    "categoria": "Positivo",
+    "concepto": "Prompts e instrucciones",
+    "tema": "Interacción con IA",
+    "fragmento": "Le di indicaciones básicas como el desarrollo de la idea y que objetivo requería llegar para poder generar un impacto optimo, tambien le mencione cuales eran los puntos en los que requeria que fuera enfatico, como objetivos, características, impactos que pudiera generar e indicadores KPIs para poder evaluar el desempeño del plan",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-47c8fed5",
+    "categoria": "Negativo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "El resultado final fue muy cercano al esperado en contexto del documento solo se tuvieron que realizar un porcentaje de correcciones de un 20% de 100%, esto debido a que los formatos presentados no fueron los más acertados y tenia que velar por la formalidad del documento",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-47c8fed5",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Claro que si pero como jefatura mi trabajo es investigar cuales son las caracteristicas de cada IA y donde esta especializada para poder buscar la IA que se acopla mejor a mis necesidades y la creación que requiero",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-47c8fed5",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Un ejemplo claro fue donde intente realizar una presentación para una reunión importante y la IA que esstaba utilizando no era la más adecuada, por lo que tuve que buscar otras IA para lograrlo",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-957311e1",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Cuando la carga de trabajo es mucha, si he utilizado estas herramientas para facilitar un poco el trabajo",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-957311e1",
+    "categoria": "Positivo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "Hace una semana, era la redacción de un oficio, en el día elaboramos gran cantidad de oficios sobre diferentes temas, asi que ese día la utilicé para guiarme sobre como redactar ese documento, le indiqué la idea principal del oficio, le brindé información y luego fui haciéndole cambios",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-957311e1",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Me ayudó bastante, ya que en muchas ocasiones por la carga de trabajo, mentalmente uno se bloquea y es imposible pensar como iniciar o que información agregar en los documentos, la IA te ayuda y te ahorra mucho tiempo o bien, te brinda la idea",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-957311e1",
+    "categoria": "Positivo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "En realidad nunca me ha ocurrido, al brindar la información e indicación incluso siendo esta muy básica, te ayuda en gran manera",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-30b11685",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Si, si he escuchado y lo he utilizado",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-30b11685",
+    "categoria": "Positivo",
+    "concepto": "Datos y bases de datos",
+    "tema": "Datos y analítica",
+    "fragmento": "Si, con la estructura de los párrafos de acuerdo a datos numéricos que doy. \nTambién para interpretar pliegos de condiciones del SICOP que son muy extensos  me ayuda a ubicar datos que necesito",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5028ca87",
+    "categoria": "Positivo",
+    "concepto": "Ventas y comercialización",
+    "tema": "Ventas y clientes",
+    "fragmento": "Soy Odontopediatra. Odontologa con una especialidad en Odontopediatría. Pero también administro empíricamente una sociedad que se dedica a alquiler de 14 locales comerciales y 9 lugares de habitación.",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5028ca87",
+    "categoria": "Positivo",
+    "concepto": "Excel / hojas de cálculo",
+    "tema": "Herramientas digitales",
+    "fragmento": "Cuento con la ayuda de plantillas de hojas de cálculo para llevar orden de cosas. Mucho lo hago manual escrito. Tengo un contador. Y mi memoria",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5028ca87",
+    "categoria": "Positivo",
+    "concepto": "Programación y desarrollo",
+    "tema": "Desarrollo tecnológico",
+    "fragmento": "Hasta ahora estoy estudiando un técnico en administración de empresas y estoy aprendiendo de diferentes temas. Pero sí. Obvio para el consultorio también tenhonuna asistente dental que maneja agenda y un sistema de facturación",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5028ca87",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "De hecho es un tema que comencé a estudiar hace 2 meses y sí he utilizado IA pero hasta ahora solo para los temas del curso para trabajos del curso. Aún no he profundizado para temas del día a día de mi trabajo. Aún no sé cómo hacerlo. Quiero llevar los cursos de economía, contabilidad y comportamiento organizacional para comenzar por ahí y ver qué más puedo aprender",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5028ca87",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Pues en cada idea. Desde el inicio me ayudó muchísimo con ideas de nombre. Con el desarrollo de como montar una presentación para una posible presentación a un inversor, con bibliografía para ver la necesidad del negocio. Fue de muchísima ayuda para ampliar mi visión del posible negocio y de cómo armar todo el plan para una presentación. También utilice IA para estudiar. Ayudarme a Repasar la materia y finalmente a responder a un examen. Me ayudó muchísimo a esquematizar la materia y aprender mucho más rápido",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5028ca87",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Saber cómo utilizarla para eso. Qué cosas le podría pedir me ayude a gestionar o a hacer",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-5028ca87",
+    "categoria": "Interesante",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Saber cómo utilizarla para eso. Qué cosas le podría pedir me ayude a gestionar o a hacer",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-7fc0cf79",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Quiero un uso de IA que me ayude a mejorar y personalizar mis recomendaciones y darme más margen para enfocarme en la interacción personal con mis estudiantes.",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-7fc0cf79",
+    "categoria": "Negativo",
+    "concepto": "Procesos empresariales",
+    "tema": "Procesos empresariales",
+    "fragmento": "Las etapas están muy conectadas y consumen tiempo. En la primera por ejemplo usualmente hay que hacer un esfuerzo para recordar el estatus de un proyecto específico especialmente si se atienden muchos estudiantes y si se tienen fuentes de infornación hay que ir a buscarlas y está dispersa. Durante la reunión es difícil tomar minutas y guardarlas apropiadamente si lo que se quiere es centrar la atención en escuchar al estudiante y las recomendaciones deberían darle en tiempo real al finalizar el proceso de escucha.",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-7fc0cf79",
+    "categoria": "Positivo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "Me gustaría registrar apropiadamente el transcript completo de los avances que los estudiantes reportan en estas sesiones, acuerdos, etc... también me gustaría complementarlo con información sobre el estudiante temas relacionados a gustos del estudiante por ejemplo.",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-948192ff",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Gerente de Producción en DDS Lab Costa Rica, me ocupan los KPI’s como TAT (turn around time) o tiempo de ciclo, productividad, alcanzar las metas de producción con la Calidad esperada, análisis de capacidad en las diferentes operaciones, manejo de personal, proyectos de mejora, resolución de problemas , entre otros",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-948192ff",
+    "categoria": "Negativo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Gerente de Producción en DDS Lab Costa Rica, me ocupan los KPI’s como TAT (turn around time) o tiempo de ciclo, productividad, alcanzar las metas de producción con la Calidad esperada, análisis de capacidad en las diferentes operaciones, manejo de personal, proyectos de mejora, resolución de problemas , entre otros",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-948192ff",
+    "categoria": "Positivo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "Expliqué mis expectativas guiando con información relevante y bien estructurada, indicando de una manera clara cuál era el entregable esperado, alcance…, que cumpliera los objetivos descritos.",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-948192ff",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Si, en varias ocasiones…, a IA hay que brindarle un contexto muy amplio y la descripción de lo esperado debe ser estrictamente detallado, para poder esperar el resultado bien ajustado.",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-948192ff",
+    "categoria": "Interesante",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Si, en varias ocasiones…, a IA hay que brindarle un contexto muy amplio y la descripción de lo esperado debe ser estrictamente detallado, para poder esperar el resultado bien ajustado.",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-948192ff",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Generación de información o resultados aplicados, mejor direccionados.",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-604b4cfd",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Soy Ingeniería Industrial, actualmente laboro como Jefatura de Control de Calidad, llevo aproximadamente 5 años, dentro de mis funciones se encuentra la toma de decisiones en los diferentes procesos para asegurar que las características del producto cumplan con los requerimientos del cliente.  En mi rutina paso en contacto con diferentes áreas de manufactura y ventas, coordino todo el flujo de reclamos, respuestas al cliente, llevo indicadores de calidad y coordino funciones con mi personal a cargo",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-604b4cfd",
+    "categoria": "Negativo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Soy Ingeniería Industrial, actualmente laboro como Jefatura de Control de Calidad, llevo aproximadamente 5 años, dentro de mis funciones se encuentra la toma de decisiones en los diferentes procesos para asegurar que las características del producto cumplan con los requerimientos del cliente.  En mi rutina paso en contacto con diferentes áreas de manufactura y ventas, coordino todo el flujo de reclamos, respuestas al cliente, llevo indicadores de calidad y coordino funciones con mi personal a cargo",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-604b4cfd",
+    "categoria": "Positivo",
+    "concepto": "Redacción y edición",
+    "tema": "Generación de contenido",
+    "fragmento": "Actualmente si me apoyo ejemplo en redactar in poco mejor ciertas respuestas a los clientes, si tengo que generar alguna imagen por ejemplo guía de defectos para x áreas, así como investigación de un tema en específico",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-604b4cfd",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "En realidad facilita más el filtro, pero al final con mi conocimiento debo hacer una revisión , ejemplo hace poco debía hacer unos indicadores y por el tipo de tema que está realizando solicité un poco de guía me dio la base y de ahí lo desarrollé",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-604b4cfd",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "En realidad lo veo como una herramienta de ayuda no como algo que reemplace",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-604b4cfd",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "No tengo un tiempo en específico, cuando no entiende el objetivo si prefiero explicar mejor o inclusive tomar la idea que me envía y ajustarla",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-604b4cfd",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Si me parece una herramienta muy útil que veo que si le saco el mayor provecho me puede agilizar mucho mis funciones",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-b67c5eec",
+    "categoria": "Positivo",
+    "concepto": "Excel / hojas de cálculo",
+    "tema": "Herramientas digitales",
+    "fragmento": "Puede ser tipo de archivos en Excel que me da opciones para tener un mejor control",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-b67c5eec",
+    "categoria": "Positivo",
+    "concepto": "Procesos empresariales",
+    "tema": "Procesos empresariales",
+    "fragmento": "Tomo en cuenta honorarios de enfermería y doctores, insumos médicos, cargos administrativos, alquiler de sala quirúrgica y sala de recuperación y dependiendo del proceso quirúrgico puede variar también toma de biopsia que tiene un costo y en temas de ortopedia puede también generar un costo por materiales o equipos, además de personal técnico",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-b67c5eec",
+    "categoria": "Interesante",
+    "concepto": "Procesos empresariales",
+    "tema": "Procesos empresariales",
+    "fragmento": "Tomo en cuenta honorarios de enfermería y doctores, insumos médicos, cargos administrativos, alquiler de sala quirúrgica y sala de recuperación y dependiendo del proceso quirúrgico puede variar también toma de biopsia que tiene un costo y en temas de ortopedia puede también generar un costo por materiales o equipos, además de personal técnico",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-8b29289b",
+    "categoria": "Positivo",
+    "concepto": "Ventas y comercialización",
+    "tema": "Ventas y clientes",
+    "fragmento": "Soy socia y también la gerente de ventas internacionales, damos servicios en transporte marítimo, aereo, y también en aduanas , que cosas ocupan mi atención? Seria seguimiento con mis clientes, empleados, buscar mejores ofertas de tarifas, estar actualizada en el campo marítimo internacional",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-8b29289b",
+    "categoria": "Positivo",
+    "concepto": "Reportes e informes",
+    "tema": "Gestión de información",
+    "fragmento": "Mucho, noticias internacionales y locales,  enviar informes a mis clientes para tenerlos actualizados, mejorar las herramientas con mis coolaboradores",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-8b29289b",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Mundo Marítimo me ayuda mucho y también colegas del campo",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-8b29289b",
+    "categoria": "Positivo",
+    "concepto": "WhatsApp / mensajería",
+    "tema": "Comunicación digital",
+    "fragmento": "Hacer imágenes específicas con noticias para enviarlas por WhatsApp, me ayuda mucho es un servicio que los clientes agradecen mucho",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-8b29289b",
+    "categoria": "Positivo",
+    "concepto": "Prompts e instrucciones",
+    "tema": "Interacción con IA",
+    "fragmento": "Le pido que me ayude",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-530462da",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Prospectar y crear nuevos leads",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Medio",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-530462da",
+    "categoria": "Positivo",
+    "concepto": "Educación y aprendizaje",
+    "tema": "Educación y capacidades",
+    "fragmento": "No lo he intentando por eso me gustaría aprender como llegar ahi y lograrlo de manera eficiente",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-8a334c88",
+    "categoria": "Negativo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "hay varios casos de uso, pero podría contarle sobre el análisis de contratos de manera previa a su autorización. en esta herramienta se provee un flijo de aprobación para contratos el cual incorpora un analisis de la IA donde nos entrega resumen, resuelve consulta, analiza riesgos y propone correcciones. todo esto desde el contexto organizacional",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-8a334c88",
+    "categoria": "Interesante",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "hay varios casos de uso, pero podría contarle sobre el análisis de contratos de manera previa a su autorización. en esta herramienta se provee un flijo de aprobación para contratos el cual incorpora un analisis de la IA donde nos entrega resumen, resuelve consulta, analiza riesgos y propone correcciones. todo esto desde el contexto organizacional",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-8a334c88",
+    "categoria": "Interesante",
+    "concepto": "Documentos",
+    "tema": "Gestión de información",
+    "fragmento": "Es revisado por el responsable contractual, que podría ser cualquier rol de liderazgo que esté solicitando la aprobación de dicho contrato.",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-8a334c88",
+    "categoria": "Positivo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "No, no es quien da VB final. es un flujo de aprobación donde un lider solicita, y en el proceso puede pasar por uno o varios aprobadores. Cada uno tiene acceso al resumen, consultas, riesgos y correcciones sugeridas. Desde el punto de vista de responsabilidad cada parte tiene su grado de responsabilidad, sin embargo, la parte interesada en que se firme el contrato es quien realiza la solicitud por lo tanto es quien con mayor cuidado debe validar que la información ingresada y verificada sea optima",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-8a334c88",
+    "categoria": "Negativo",
+    "concepto": "Fiabilidad y verificación",
+    "tema": "Riesgos y gobernanza",
+    "fragmento": "No, no es quien da VB final. es un flujo de aprobación donde un lider solicita, y en el proceso puede pasar por uno o varios aprobadores. Cada uno tiene acceso al resumen, consultas, riesgos y correcciones sugeridas. Desde el punto de vista de responsabilidad cada parte tiene su grado de responsabilidad, sin embargo, la parte interesada en que se firme el contrato es quien realiza la solicitud por lo tanto es quien con mayor cuidado debe validar que la información ingresada y verificada sea optima",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-8a334c88",
+    "categoria": "Negativo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "nos expndría a un riesgo reputacional por ser inconsistentes en nuestras practicas vs definición corporativa de asg",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-8a334c88",
+    "categoria": "Positivo",
+    "concepto": "Fiabilidad y verificación",
+    "tema": "Riesgos y gobernanza",
+    "fragmento": "dependiendo del avance registrado es mejor iniciar de cero para evitar que el historial incorrecto induzca a alucinaciones. en vista de eso si concluye en un trabajo extra  manual",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-aba5882b",
+    "categoria": "Positivo",
+    "concepto": "Programación y desarrollo",
+    "tema": "Desarrollo tecnológico",
+    "fragmento": "Trabajo en programas de office como Excel, project, uso también  cad, me comunico por correo electrónico y es mi medio formal para compartir información, uso tablero en trello para seguimiento de tareas  personal, archivos compartidos en one drive empresarial",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-aba5882b",
+    "categoria": "Positivo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "Una herramienta que me ayude a dar seguimiento a fechas del cronograma, qué me ayude a recordar pendientes, que me ayude a asignar ydar seguimiento a tareas que asignó a miembros de mi equipo, que me ayude a generar informes a partir de los documentos que tengo en mi computadora, que me facilite buscar información",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-aba5882b",
+    "categoria": "Positivo",
+    "concepto": "Copilot",
+    "tema": "Herramientas de IA",
+    "fragmento": "Uso copilot para que me haga resúmenes de informes, para que busque en mi bandeja de correo alguno que necesite a partir de fragmentos querecuerde del correo que busco, le he pedido que mejores mis redacciones de correos, que busque info en una serie de documentos y que me genere un resumen, cosas de ese tipo",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-aba5882b",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Por ejemplo pedí extrejara un número de una gran cantidad de documentos, lo hizo y me generó una tabla consolidada, me ahorro tiempo, pero en varias ovaciones no entendió lo que pedía y me  devolvía información que no era lo que ocupaba. En redacción de correos muy buena experiencia. Detecte un error en extraer números de un documento, no me genara total confianza",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-aba5882b",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "Por ejemplo pedí extrejara un número de una gran cantidad de documentos, lo hizo y me generó una tabla consolidada, me ahorro tiempo, pero en varias ovaciones no entendió lo que pedía y me  devolvía información que no era lo que ocupaba. En redacción de correos muy buena experiencia. Detecte un error en extraer números de un documento, no me genara total confianza",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-aba5882b",
+    "categoria": "Interesante",
+    "concepto": "Automatización de tareas",
+    "tema": "Automatización y productividad",
+    "fragmento": "Por ejemplo pedí extrejara un número de una gran cantidad de documentos, lo hizo y me generó una tabla consolidada, me ahorro tiempo, pero en varias ovaciones no entendió lo que pedía y me  devolvía información que no era lo que ocupaba. En redacción de correos muy buena experiencia. Detecte un error en extraer números de un documento, no me genara total confianza",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e5142c7d",
+    "categoria": "Positivo",
+    "concepto": "Educación y aprendizaje",
+    "tema": "Educación y capacidades",
+    "fragmento": "Utilizo mucho la computadora para que mis estudiantes vean videos o actividades en línea",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e5142c7d",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Si muchas veces me ahorra tiempo y las prendas de ropa se ven mejor",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e5142c7d",
+    "categoria": "Negativo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "La prenda muy modificada y la idea es que se vea real",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e5142c7d",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Quizá debería especificar mejor el promt",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-bf63b363",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Si me ha ayudado a definir estrategias para mejorar y desarrollar el centro quirúrgico",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-bf63b363",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Siempre me ha ayudado en el análisis de lo que yo quiero para el centro",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-2f73eb5b",
+    "categoria": "Positivo",
+    "concepto": "Integración de sistemas",
+    "tema": "Desarrollo tecnológico",
+    "fragmento": "Es de suma utilidad,me orienta a los diagnósticos y efectividad en las diferentes terapias",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-969dbd56",
+    "categoria": "Positivo",
+    "concepto": "ChatGPT",
+    "tema": "Herramientas de IA",
+    "fragmento": "utilice chatgpt para ayuda en conocimiento de leyes",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-969dbd56",
+    "categoria": "Positivo",
+    "concepto": "Legal y contratos",
+    "tema": "Sectores de aplicación",
+    "fragmento": "si super util ya que le da mas conocimiento sobre las leyes",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-969dbd56",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "si en el trabajo lo he utilizado para la realizacion de convenios y propuestas al empresario segun su necesidad",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-969dbd56",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "lo hago con ideas desde cero le doy la idea que tengo para la empresa en curso y busco la mejor manera para presentarles la propuesta",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-969dbd56",
+    "categoria": "Positivo",
+    "concepto": "Fiabilidad y verificación",
+    "tema": "Riesgos y gobernanza",
+    "fragmento": "no siempre lo reviso e incluso mejoro algunas cosas",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-969dbd56",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "no todo bien",
+    "mensajes_csv": [
+      21
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-969dbd56",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "te agradezo la ayuda",
+    "mensajes_csv": [
+      23
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-31613cc2",
+    "categoria": "Positivo",
+    "concepto": "Procesos empresariales",
+    "tema": "Procesos empresariales",
+    "fragmento": "Me dedico a convertir procesos actuales los cuales son algo rudimentarios a procesos ya asistidos por I.A mediante herramientas varias por ejemplo: dasboard interactivos,  desarrollo de aplicaciones web o apk e incluso cruzadas, etc. También soy todo el soporte que debe de dar un departamento de Informática y T.I.",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-31613cc2",
+    "categoria": "Interesante",
+    "concepto": "Procesos empresariales",
+    "tema": "Procesos empresariales",
+    "fragmento": "Me dedico a convertir procesos actuales los cuales son algo rudimentarios a procesos ya asistidos por I.A mediante herramientas varias por ejemplo: dasboard interactivos,  desarrollo de aplicaciones web o apk e incluso cruzadas, etc. También soy todo el soporte que debe de dar un departamento de Informática y T.I.",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-31613cc2",
+    "categoria": "Positivo",
+    "concepto": "Programación y desarrollo",
+    "tema": "Desarrollo tecnológico",
+    "fragmento": "Un ejemplo reciente es el haber transformado las compras qué se hacían únicamente utilizando datos de Excel y criterio del personal de proveeduría. A compras realizadas con un dasboard interactivo que analiza la cantidad de compras, el tiempo entre la creación y entrega de un proveedor en específico, ventas anuales, y mucho mas. Esto lo hace con cada proveedor y al analizar el inventario actual entonces puede sugerir que cantidad debo comprar de cada código existente en la empresa.",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-31613cc2",
+    "categoria": "Negativo",
+    "concepto": "Integración de sistemas",
+    "tema": "Desarrollo tecnológico",
+    "fragmento": "Me sorprendió el cambio rápido que tuvo la empresa para poder comenzar a solventar los ceros y mínimos de los códigos y asi atender el problema concreto que teníamos de no contar con un producto cuando el cliente lo necesitaba. Además mostró otros productos que en realidad como eran nuevos se interpretaba como con ventas bajas y en realidad eran muy buenos productos para la venta ta y debía de comprarse mucho más.  Así se hizo y resultó ser cierto",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-31613cc2",
+    "categoria": "Positivo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "Los utilizo sí. Siempre me funcionan también para generar documentos mas ordenados sobre el procedimiento paso a paso de nuevas implementaciones y asi poder archivar esa información para asegurar la continuidad de la empresa aún si llegase a faltar yo",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-72593fff",
+    "categoria": "Positivo",
+    "concepto": "Servicio y atención al cliente",
+    "tema": "Ventas y clientes",
+    "fragmento": "Soy arquitecto con una pequeña empresa consultora y constructora.  Mi día lo ocupo realizando diseños arquitectónicos, realizando Proveeduría para las diferentes obras, inspeccionando construcciones y visitando nuevos clientes.  También coordino el trabajo con dibujantes.  Llevo control de ingresos y egresos. La parte contable la realizo mediante mi contadora.",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-72593fff",
+    "categoria": "Positivo",
+    "concepto": "Programación y desarrollo",
+    "tema": "Desarrollo tecnológico",
+    "fragmento": "Primero realizo visitas a sitio y realizo levantamientos generales de las condiciones que encuentro. Realizo bosquejos, algunas veces a mano y otras utilizando programas de dibujo como autocar o SketchUp.  Realizo los anteproyectos y presento a clientes, luego de eso, paso la información a dibujantes y guío y superviso en proceso de confección de los mismos",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-72593fff",
+    "categoria": "Positivo",
+    "concepto": "Programación y desarrollo",
+    "tema": "Desarrollo tecnológico",
+    "fragmento": "Correcto, SketchUp tiene funcionalidades para facilitar las visualizaciones o renders desde el mismo programa, realizar análisis climáticos mediante localización geoespacial, buscqueda y creación de componentes.",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-72593fff",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Me gusta principalmente la facilidad de crear fotorrealismos o presentaciones arquitectónicas.",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Medio",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-72593fff",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Excelente, he ahorrado mucho trabajo y tiempo en su creaciónón.  Puedes generar un concepto y la IA termina de realizar la decoración del anteproyecto, o te da sugerencias sobre como podrían ser posibles variantes",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-72593fff",
+    "categoria": "Interesante",
+    "concepto": "Automatización de tareas",
+    "tema": "Automatización y productividad",
+    "fragmento": "Excelente, he ahorrado mucho trabajo y tiempo en su creaciónón.  Puedes generar un concepto y la IA termina de realizar la decoración del anteproyecto, o te da sugerencias sobre como podrían ser posibles variantes",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-72593fff",
+    "categoria": "Positivo",
+    "concepto": "Programación y desarrollo",
+    "tema": "Desarrollo tecnológico",
+    "fragmento": "Antes debía exportar el modelo 3D con todos los elementos paisajisticos a otros programas como luminosidad o 3dmax y a partir de allí seguir explorando y trabajando el modelo hasta lograr una presentación satisfactoria, esto requería la inversión de mucho tiempo.",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-192e68e4",
+    "categoria": "Positivo",
+    "concepto": "Análisis de datos",
+    "tema": "Datos y analítica",
+    "fragmento": "La utilizo mucho para realizar análisis estadísticos y financieros para ver mercado de telecomunicaciones y en algunas ocaciones para hacer consultas variadas sobre temas de investigación",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-192e68e4",
+    "categoria": "Interesante",
+    "concepto": "Análisis de datos",
+    "tema": "Datos y analítica",
+    "fragmento": "La utilizo mucho para realizar análisis estadísticos y financieros para ver mercado de telecomunicaciones y en algunas ocaciones para hacer consultas variadas sobre temas de investigación",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-192e68e4",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Lo que me sorprende es que si hay que detallar muy bien los resultados que deseo optener porque sino se desvía de los resultados que quiero ver",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-192e68e4",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "No me brindó lo que esperaba, fue un problema de fondo por o especificar bien lo que quería",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-192e68e4",
+    "categoria": "Negativo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "No me brindó lo que esperaba, fue un problema de fondo por o especificar bien lo que quería",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-97cc7b1b",
+    "categoria": "Positivo",
+    "concepto": "Programación y desarrollo",
+    "tema": "Desarrollo tecnológico",
+    "fragmento": "Si, queremos integrar un WMS al sistema que utilizamos en la empresa",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-97cc7b1b",
+    "categoria": "Positivo",
+    "concepto": "Procesos empresariales",
+    "tema": "Procesos empresariales",
+    "fragmento": "No mucho, mas bien me gustaría tener recomendaciones de que podemos utilizar para mejorar y controlar nuestras operaciones",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-97cc7b1b",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "De manera informal si, yo lo utilizo para casos concretos que requiero ayuda",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-97cc7b1b",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Por ejemplo le pedí ayuda para hacer un cubicaje de un compra en México, necesita calcular la cantidad de artículos de diferentes tamaños para dos furgones",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e8b0375c",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Le pedí que me ayudara investigar sobre las empresas con las que iba a interartuar",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e8b0375c",
+    "categoria": "Positivo",
+    "concepto": "Reuniones y seguimiento",
+    "tema": "Gestión organizacional",
+    "fragmento": "La utilice en la reunion",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e8b0375c",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "La utilice inmediatamente",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-64afc10a",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Realmente solo lo utilizo como apoyo en la descripción escrita para sitios de publicación de propiedades y traducción en inglés",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9be8714e",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Tengo mi impresa que ayuda impresas con su mercadeo con IA y coaching de equipos",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9be8714e",
+    "categoria": "Positivo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "Creer un plan de mercadeo y communication para su impresa, en forma de tener un página web moderna con blogs para AI puedes encontrar la información. También focus en los reviews. Entrenar el equipo de pymes para entender y hacer estos cosas",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9be8714e",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Si IA me ayuda mucha en el parte research",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9be8714e",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Si utilizo mi experiencia mercadeo y coaching para impresoras International para escribir prompts muy claro y hablar con IA para corregir. También comparte mi content final mi trabajo final y en este forma gemini puede entender mas mi forma de hablar y mi marca o de mis clientes",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9be8714e",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Exactamente por ejemplo, mis clientes con de zona Occidente de costa rica, aqui hablamos con usted no vos. Ahora Géminis, cuando utilizo mi account sabe que necesito el texto en este forma",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-ec73ac2a",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Herramientas que me permitan mejorar mi trabajo",
+    "mensajes_csv": [],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-ec73ac2a",
+    "categoria": "Positivo",
+    "concepto": "Procesos empresariales",
+    "tema": "Procesos empresariales",
+    "fragmento": "Que me ayudara con una idea para un proceso de cambio de como comunicar a un equipo unos cambios",
+    "mensajes_csv": [],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-ec73ac2a",
+    "categoria": "Positivo",
+    "concepto": "ChatGPT",
+    "tema": "Herramientas de IA",
+    "fragmento": "Me gustó, fue útil y si tuve que ajustar pero no mucho, solo ChatGPT no da ppt diseñadas tan completas como copilot premiun",
+    "mensajes_csv": [],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-ec73ac2a",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "No siempre se ajusta pero me ayuda en algunos casos",
+    "mensajes_csv": [],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-f969fcea",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Usamos un wrapper que nos permite usar varios modelos de ia integrados con el vscode, lo q permite generar test de pruebas de api directamente con ayuda de Claude sonnet y/o Gemini además de interactuar directamente con jira a través del plugin de rovo",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-f969fcea",
+    "categoria": "Negativo",
+    "concepto": "Datos y bases de datos",
+    "tema": "Datos y analítica",
+    "fragmento": "Ambos pues el problema puede ser desde código generado con muy poca información de entrada hasta datos cambiantes",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-67c09c69",
+    "categoria": "Positivo",
+    "concepto": "Copilot",
+    "tema": "Herramientas de IA",
+    "fragmento": "La verdad es que no, muy pocas veces he utilizado herramientas de apoyo, recientemente utilice el asistente de Office, Copilot, para editar algunos textos, antes de enviarlos por correo electrónico solamente.",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-67c09c69",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Yo sé algo de diseño gráfico, entonces suelo editar las imágenes yo mismo, solo utilizo la IA para corregir rápidamente algún detalle que sea complejo o me vaya a quitar demasiado tiempo.",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-67c09c69",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Si, por ejemplo que quiero promocionar un producto, por ejemplo, un florero, entonces yo mejoro la fotografía en aspectos de iluminación y colocación, posteriormente le puedo pedir a la IA que genere un fondo en donde ese florero se vea integrado y destacado.",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-3f1236df",
+    "categoria": "Positivo",
+    "concepto": "Procesos empresariales",
+    "tema": "Procesos empresariales",
+    "fragmento": "Soy asesor de Zonas Francas, me dedico a atender empresas de Zonas Francas y tambièn proveedores que deseen conocer la operativa de las mismas para  poder comprender mejor la operaciòn de estas. Normalmente mi trabajo necesita conocimiento de procesos logisticos, indutriales y normativa legal aplicable",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-3f1236df",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Correcto complemento la IA con mi conocimeinto, por ejemplo para desarrollar infogramas o bien definicion de procesos o flujos",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-3f1236df",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "claro hubo un momento en el que duplicaba un paso en el infograma, por lo que tuve que ser bien claro en que eliminar y que no",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-3f1236df",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "para un ejercicio matematico de calculo se equivocó con un numero y el resultado a partir de ahí cambio, cuando yo lo hice vi el error le indiqué y me dijo que si que efectivamente fue un error y genero de nuevo el ejercicio con el dato correcto",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-3f1236df",
+    "categoria": "Positivo",
+    "concepto": "Procesos empresariales",
+    "tema": "Procesos empresariales",
+    "fragmento": "ya sabía que podía fallar por eso la usaba más para revisar que mi procesos estuviera bien que otra cosa",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-3f1236df",
+    "categoria": "Negativo",
+    "concepto": "Fiabilidad y verificación",
+    "tema": "Riesgos y gobernanza",
+    "fragmento": "ya sabía que podía fallar por eso la usaba más para revisar que mi procesos estuviera bien que otra cosa",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-3f1236df",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "debería tener en cuenta muchas variables antes de dar una respuesta, sin embargo al ser un sistema de respuesta veloz, en ocasiones omite o comete errores por eso es importante que se use como herramienta es decir con supervision humana",
+    "mensajes_csv": [
+      25
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-3f1236df",
+    "categoria": "Interesante",
+    "concepto": "Programación y desarrollo",
+    "tema": "Desarrollo tecnológico",
+    "fragmento": "debería tener en cuenta muchas variables antes de dar una respuesta, sin embargo al ser un sistema de respuesta veloz, en ocasiones omite o comete errores por eso es importante que se use como herramienta es decir con supervision humana",
+    "mensajes_csv": [
+      25
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-7acbcdb0",
+    "categoria": "Positivo",
+    "concepto": "Programación y desarrollo",
+    "tema": "Desarrollo tecnológico",
+    "fragmento": "Disponemos de bases de datos de los afiliados y de los asistentes a actividades mensuales como los desayunos empresariales. Queremos utilizar el Código CIIU CÓDIGO INTERNACIONAL INDUSTRIAL UNIFORME como base de esa segmentación.",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-7acbcdb0",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Queremos que la inteligencia artificial nos ayude en todos esos procesos",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-7acbcdb0",
+    "categoria": "Positivo",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Creo que en general en todos los procesos nos puede ayudar",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-7acbcdb0",
+    "categoria": "Positivo",
+    "concepto": "Datos y bases de datos",
+    "tema": "Datos y analítica",
+    "fragmento": "1.- Segmentar utilizando la base de datos 2.- Haciendo benchmarking de mejores prácticas 3.- preguntando a los afiliados 4.- en servicio al cliente",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-7acbcdb0",
+    "categoria": "Interesante",
+    "concepto": "Logística y rutas",
+    "tema": "Operaciones y logística",
+    "fragmento": "Le entregaría un archivo de afiliados y le pediría un análisis multivariable",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-f8d3b752",
+    "categoria": "Positivo",
+    "concepto": "Programación y desarrollo",
+    "tema": "Desarrollo tecnológico",
+    "fragmento": "Para simplificar código o investigar los ambientes de desarrollo",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-ffaf8277",
+    "categoria": "Positivo",
+    "concepto": "Recursos humanos",
+    "tema": "Gestión organizacional",
+    "fragmento": "Más que nada necesito la ayuda para montar planillas de colaboradores y los proyectos en trabajos muy específicos",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-ffaf8277",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Sí claro que me podría ayudar mucho quiero agilizar los procesos lo que no sé es cómo",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-ffaf8277",
+    "categoria": "Interesante",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Sí claro que me podría ayudar mucho quiero agilizar los procesos lo que no sé es cómo",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-ffaf8277",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Pedirle al IA ayuda como puedohacerlo",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e55559e1",
+    "categoria": "Positivo",
+    "concepto": "Prompts e instrucciones",
+    "tema": "Interacción con IA",
+    "fragmento": "Le di un prompt y las utilice como punto de partida",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e55559e1",
+    "categoria": "Positivo",
+    "concepto": "Prompts e instrucciones",
+    "tema": "Interacción con IA",
+    "fragmento": "Si, cambie el prompt o utilice otra herramienta",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e55559e1",
+    "categoria": "Positivo",
+    "concepto": "ChatGPT",
+    "tema": "Herramientas de IA",
+    "fragmento": "Edición de imágenes, es mejor ChatGPT que claude",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e55559e1",
+    "categoria": "Positivo",
+    "concepto": "Generación de imágenes",
+    "tema": "Generación de contenido",
+    "fragmento": "Es mejor en la edición de imágenes y se consumen menos token",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e55559e1",
+    "categoria": "Positivo",
+    "concepto": "Programación y desarrollo",
+    "tema": "Desarrollo tecnológico",
+    "fragmento": "Estoy haciendo una prueba de ChatGPT work, me parece muy bien la programación de tareas",
+    "mensajes_csv": [
+      29
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e437182e",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Bueno trabajar con herramientas como gpt gemini entre otras facilitan las búsquedas, trabajos complejos entre otros beneficios y retos sobre la forma correcta de usarlas y no solo ser un preguntón a las IA sino un crítico y buscar las respuestas para unificar y mejorar criterios. Sin embargo, ahora todas las aplicaciones, y equipos vienen con IA para detecciones, análisis entre otras opciones de mejora",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e437182e",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "es normal buscar errores en aplicaciones para brindar soluciones la IA brinda las guías pero no recetas hay que leer, analizar y esto aunado a criterios personales y experiencia aportan gran ayuda para los análisis de causa raíz",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e437182e",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "es normal buscar errores en aplicaciones para brindar soluciones la IA brinda las guías pero no recetas hay que leer, analizar y esto aunado a criterios personales y experiencia aportan gran ayuda para los análisis de causa raíz",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e437182e",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Tenemos un software de control de acceso privilegiado, si esta herramienta herramienta presenta errores son buscados con IA, y permite tener un panorama holistico de la situación y permite aterrizar ideas con la experiencia de usuario, Igual con la IA integrada en herramientas de la misma rpa permite hacer detecciones visuales de páginas por en dado caso que las interfases de aplicaciones cambien",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e437182e",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "Tenemos un software de control de acceso privilegiado, si esta herramienta herramienta presenta errores son buscados con IA, y permite tener un panorama holistico de la situación y permite aterrizar ideas con la experiencia de usuario, Igual con la IA integrada en herramientas de la misma rpa permite hacer detecciones visuales de páginas por en dado caso que las interfases de aplicaciones cambien",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e260ff24",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Se ChatGpt, Cloud y Gémini integrado a Android estudio para crear app,s y Códex de chat gpt para crear aplicaciones",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Medio",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e260ff24",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Si ayer para crear una aplicación que se corre en la computadoras que recopila toda la información que necesito de las computadoras para levantar un inventario de TI",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Medio",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e260ff24",
+    "categoria": "Interesante",
+    "concepto": "Fiabilidad y verificación",
+    "tema": "Riesgos y gobernanza",
+    "fragmento": "Si correcto lo realicé en dos días, algo que me llevaría más de un mes",
+    "mensajes_csv": [
+      9
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e260ff24",
+    "categoria": "Positivo",
+    "concepto": "Calidad de resultados",
+    "tema": "Calidad de IA",
+    "fragmento": "Realmente todo yo solo le coloqué el promp con lo que necesitaba y lo fuimos mejorando hasta llegar al resultado final",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e260ff24",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "Reviso el promp y el avance ya que al inicio puede generar errores por lo que le comparto capturas de pantalla del error y se soluciona y seguimos avanzando",
+    "mensajes_csv": [
+      13
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e260ff24",
+    "categoria": "Positivo",
+    "concepto": "Prompts e instrucciones",
+    "tema": "Interacción con IA",
+    "fragmento": "Estructurar bien el promp con lo que necesito",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-e260ff24",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Si para revisar documentos y crear contenido para redes sociales",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Medio",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-a5cc257a",
+    "categoria": "Positivo",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Soy Gerente de Servicio Técnico en una empresa HVAC, mi tiempo se ocupa generalmente en gestión de personal, gestión de clientes, diseño y desarrollo de plan estratégico, seguimiento a consecución de objetivos y mejora continua e innovación",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-a5cc257a",
+    "categoria": "Positivo",
+    "concepto": "Servicio y atención al cliente",
+    "tema": "Ventas y clientes",
+    "fragmento": "Se utiliza un CRM que actualiza y da seguimiento al historial de clientes",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-a5cc257a",
+    "categoria": "Positivo",
+    "concepto": "Programación y desarrollo",
+    "tema": "Desarrollo tecnológico",
+    "fragmento": "Que facilitará información técnica respecto a errores en sistemas VRF",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-a5cc257a",
+    "categoria": "Negativo",
+    "concepto": "Errores y alucinaciones",
+    "tema": "Calidad de IA",
+    "fragmento": "Que facilitará información técnica respecto a errores en sistemas VRF",
+    "mensajes_csv": [
+      15
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-a5cc257a",
+    "categoria": "Positivo",
+    "concepto": "Productividad y ahorro de tiempo",
+    "tema": "Automatización y productividad",
+    "fragmento": "Si, principalmente ahorra tiempo",
+    "mensajes_csv": [
+      19
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-1d40770c",
+    "categoria": "Positivo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "Uso Chat GPT q me ayuda a navidad los registros financieros deo cliente de acuerdo al contrato de servicio, lo facturado y gastado vs los costos del proyecto y el año en el q se encuentra el contrato, vs información valiosa q he tenido en reuniones con el cliente u asi hago el forecats financiero",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-1d40770c",
+    "categoria": "Positivo",
+    "concepto": "ChatGPT",
+    "tema": "Herramientas de IA",
+    "fragmento": "Le pido a Chatgpt q me ayude a descubrir que debemos hacer para alinear los objetivos del cliente con mis servicios.  Para esto ya Chatgpt tiene mi oferta de servicios",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-2d8836a2",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Normalmente la utilizo para ideas generales y luego yo las desarrollo para meterle la parte humana y no suene tan igual a todos",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-1e98e539",
+    "categoria": "Positivo",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Utilizamos la IA en las estrategias comerciales, manejo de redes sociales varias veces al dia",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-1e98e539",
+    "categoria": "Interesante",
+    "concepto": "IA generativa",
+    "tema": "Adopción de IA",
+    "fragmento": "Utilizamos la IA en las estrategias comerciales, manejo de redes sociales varias veces al dia",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-1e98e539",
+    "categoria": "Positivo",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Tengo 2 empresas el consultorio y Olifeet ( productos para el cuidado de los pies)  ambas la IA me ha ayudado a crear objetivos mensuales de ventas amplitud de alcance dirección y guía a mis colaboradores",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-1e98e539",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Tengo 2 empresas el consultorio y Olifeet ( productos para el cuidado de los pies)  ambas la IA me ha ayudado a crear objetivos mensuales de ventas amplitud de alcance dirección y guía a mis colaboradores",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Medio",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-1e98e539",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "estaban muy bien muy  pocos ajustes",
+    "mensajes_csv": [
+      11
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-1e98e539",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Únicamente cuando el internet no es el mejor",
+    "mensajes_csv": [
+      17
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-c4b7a699",
+    "categoria": "Positivo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "las utilizo para hacerle preguntas y que me busque información",
+    "mensajes_csv": [
+      5
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-c4b7a699",
+    "categoria": "Positivo",
+    "concepto": "Adopción y capacitación",
+    "tema": "Educación y capacidades",
+    "fragmento": "si , me encontró la información y la acordo bien",
+    "mensajes_csv": [
+      7
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-c141b1af",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Escritor, editor, naturalista, ambientalista",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9f26834c",
+    "categoria": "Interesante",
+    "concepto": "Innovación y nuevas soluciones",
+    "tema": "Innovación",
+    "fragmento": "Soy Claudia y y laboro en una agencia de vehículos usados estoy en el área de administración y encargada de las redes sociales el cual me demanda mucho tiempo ya que soy la encargada de crear contenido para las redes sociales",
+    "mensajes_csv": [
+      1
+    ],
+    "confianza_analisis": "Medio",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9f26834c",
+    "categoria": "Positivo",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Si normalmente uso el chatgtp es cual me ayudó para aportar ideas, pero a veces como que es repetitivo las ideas que me aportan lo que sí me gustaría saber es que otro asistente virtual podría usar que le pueda aportar la ayuda",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-9f26834c",
+    "categoria": "Interesante",
+    "concepto": "Hallazgo contextual",
+    "tema": "Contexto emergente",
+    "fragmento": "Si normalmente uso el chatgtp es cual me ayudó para aportar ideas, pero a veces como que es repetitivo las ideas que me aportan lo que sí me gustaría saber es que otro asistente virtual podría usar que le pueda aportar la ayuda",
+    "mensajes_csv": [
+      3
+    ],
+    "confianza_analisis": "Alto",
+    "procedencia": "analisis_historico",
+    "revision_humana": "pendiente"
+  }
+]

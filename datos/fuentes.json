@@ -1,0 +1,31 @@
+[
+  {
+    "id": "CSV-2026-10-05",
+    "archivo": "entrevistas-original.csv",
+    "fecha_nombre": "2026-10-05",
+    "fecha_mensajes": "2026-09-02",
+    "ruta": "raw/restringido/entrevistas-original.csv",
+    "sha256": "95301e0f503453c652047716ce0410fa29ab3ee47f15eceb962b36019ca85b4d"
+  },
+  {
+    "id": "ANALISIS-2026-09-02",
+    "url": "https://docs.google.com/spreadsheets/d/1tLXqK3VtCfvz7mv7cjQnxVuDohBjasermhyVzQJItYs/edit",
+    "titulo": "Analisis_Entrevistas_Desayuno_Empresarial_Grecia_2026-09-02(1)",
+    "capturada": "2026-10-05",
+    "ruta": "raw/restringido/analisis-drive-original.txt",
+    "sha256": "36626d84d189aa15972cda24891ae9804bc6a54fa9edd41f9a7f222da586a595"
+  },
+  {
+    "id": "PRESENTACION-2026-09-23",
+    "url": "https://docs.google.com/presentation/d/1UJIaBhevYH0HNqkrnJg2wds3iKwk5ZzzVWdqNxewkFc/edit",
+    "titulo": "Resultados de entrevistas sobre IA en organizaciones | Grecia | UCenfotec",
+    "capturada": "2026-10-05",
+    "ruta": "raw/restringido/presentacion-drive-original.txt",
+    "sha256": "5d59fe3575d6c1e7babc50374a8a6cb4aa3df1672ad30ebf3a8378f14095e08e"
+  },
+  {
+    "id": "CONCEPTO-LLM-WIKI",
+    "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+    "uso": "Referencia arquitectónica, no evidencia sobre participantes"
+  }
+]

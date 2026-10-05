@@ -1,0 +1,34 @@
+[
+  {
+    "entrevista": "E-c86d526a",
+    "orden": 3,
+    "interpretacion": "Necesidad de seguimiento de incumplimientos",
+    "tema": "Gestión organizacional",
+    "procedencia": "wiki_2026-10-05",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-c86d526a",
+    "orden": 7,
+    "interpretacion": "Necesidad de acompañamiento inicial",
+    "tema": "Educación y capacidades",
+    "procedencia": "wiki_2026-10-05",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-c86d526a",
+    "orden": 15,
+    "interpretacion": "Aclaración de intención y revisión de borradores",
+    "tema": "Interacción con IA",
+    "procedencia": "wiki_2026-10-05",
+    "revision_humana": "pendiente"
+  },
+  {
+    "entrevista": "E-c86d526a",
+    "orden": 17,
+    "interpretacion": "Validación según norma aplicable",
+    "tema": "Riesgos y gobernanza",
+    "procedencia": "wiki_2026-10-05",
+    "revision_humana": "pendiente"
+  }
+]

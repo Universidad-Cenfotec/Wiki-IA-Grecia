@@ -1,0 +1,83 @@
+---
+tipo: "concepto"
+titulo: "Prompts e instrucciones"
+actualizada: "2026-10-05"
+revision_humana: "pendiente"
+fuente: "ANALISIS-2026-09-02"
+---
+
+# Prompts e instrucciones
+
+Etiqueta semántica heredada del análisis automático. Su presencia no demuestra que una organización haya implementado esta capacidad.
+
+Cobertura histórica 32 de 86 registros (37.21 %). El denominador incluye el registro de prueba sin respuestas. No es cobertura recalculada sobre el CSV actual.
+
+Tema [Interacción con IA](../temas/interaccion-con-ia.md).
+
+## Evidencias por entrevista
+
+| Entrevista | Concepto del análisis | Evidencia textual | Respaldo |
+| --- | --- | --- | --- |
+| [E-9729788f](../entrevistas/E-9729788f.md) | Prompts e instrucciones | Si solicité una imagen con un comando específico pero la aplicación no atendió las instrucciones tal como se le solicitó | [E-9729788f · mensaje 17](../../raw/transcripciones/E-9729788f.md#m-17) |
+| [E-69c5925d](../entrevistas/E-69c5925d.md) | Prompts e instrucciones | Hago actividades en la cual los estudiantes primero piensen en que quieran hacer o realizar y lo ejecuten con IA mediante promp muy específicos. Y al final reflexionar con ellos si era eso lo que querían o no y porque y como podrían mejorar el resultado sin uso de IA | [E-69c5925d · mensaje 11](../../raw/transcripciones/E-69c5925d.md#m-11) |
+| [E-69c5925d](../entrevistas/E-69c5925d.md) | Prompts e instrucciones | Que sin las indicaciones necesarias y justas la IA no genera lo deseado sino lo pedido en un poco de instrucciones | [E-69c5925d · mensaje 15](../../raw/transcripciones/E-69c5925d.md#m-15) |
+| [E-621d6ab8](../entrevistas/E-621d6ab8.md) | Prompts e instrucciones | Con Claude tengo muy bien elaboradas las instrucciones y reglas de operación. Y uso skills creadas por mi para atender de manera personalizada mis flujos de trabajo. | [E-621d6ab8 · mensaje 13](../../raw/transcripciones/E-621d6ab8.md#m-13) |
+| [E-6f488c08](../entrevistas/E-6f488c08.md) | Prompts e instrucciones | Bueno la forma de darle las indicaciones con detalles presisos es lo que hace que cada vez sñtrabaje mejor | [E-6f488c08 · mensaje 17](../../raw/transcripciones/E-6f488c08.md#m-17) |
+| [E-666fda31](../entrevistas/E-666fda31.md) | Prompts e instrucciones | Yo le doy las instrucciones de acuerdo al resultado Y analizo las recomendaciones que me da el chat y de ahí decido el enfoque | [E-666fda31 · mensaje 13](../../raw/transcripciones/E-666fda31.md#m-13) |
+| [E-ef3d250f](../entrevistas/E-ef3d250f.md) | Prompts e instrucciones | Primero lo leo todo, reviso de manera personal si es necesario ajustarlo por el conocimiento que tengo del cliente , después de las correcciones le vuelvo a subir a la IA y le pido algún cuadro análisis con los puntos en concreto para que me genere una revisión puntual | [E-ef3d250f · mensaje 17](../../raw/transcripciones/E-ef3d250f.md#m-17) |
+| [E-4fed92ee](../entrevistas/E-4fed92ee.md) | Prompts e instrucciones | le di las indicaciones claras de lo que necesitaba | [E-4fed92ee · mensaje 23](../../raw/transcripciones/E-4fed92ee.md#m-23) |
+| [E-4fed92ee](../entrevistas/E-4fed92ee.md) | Prompts e instrucciones | que se pueda conectar a herramientas como whatsapp y que me pida indicaciones de lo que necesito que haga | [E-4fed92ee · mensaje 35](../../raw/transcripciones/E-4fed92ee.md#m-35) |
+| [E-b6d82960](../entrevistas/E-b6d82960.md) | Prompts e instrucciones | Lo que hago es que la lista de referencia bibliográfica la genero yo misma con las Fuentes que dan las instituciones públicas a cargo de esos trámites y le pido que use solo esas refencias | [E-b6d82960 · mensaje 7](../../raw/transcripciones/E-b6d82960.md#m-7) |
+| [E-b6d82960](../entrevistas/E-b6d82960.md) | Prompts e instrucciones | Se debe detallarme muy bien el prompt, solo así funciona aceptablemente | [E-b6d82960 · mensaje 13](../../raw/transcripciones/E-b6d82960.md#m-13) |
+| [E-5de9bf0c](../entrevistas/E-5de9bf0c.md) | Prompts e instrucciones | En todo lo que he requerido. Siempre que tengo dudas sobre algo en mi trabajo le pido ayuda y siempre de una u otra manera me soluciona | [E-5de9bf0c · mensaje 15](../../raw/transcripciones/E-5de9bf0c.md#m-15) |
+| [E-365e4f5f](../entrevistas/E-365e4f5f.md) | Prompts e instrucciones | si trato de darle mas contexto que entienda la indicacion y probar de una u otra forma, pensar que pudo causarlo y tratar d entenderlo para darle una posibile solucion | [E-365e4f5f · mensaje 19](../../raw/transcripciones/E-365e4f5f.md#m-19) |
+| [E-731d2e8a](../entrevistas/E-731d2e8a.md) | Prompts e instrucciones | Claro, le paso foto de nuestros productos, le pido que tenga nuestra marca(SABB El Fogón de Mamá) y que diga 100%Costarricenses también que Tenga el número telefónico | [E-731d2e8a · mensaje 15](../../raw/transcripciones/E-731d2e8a.md#m-15) |
+| [E-731d2e8a](../entrevistas/E-731d2e8a.md) | Prompts e instrucciones | Si me ha pasado, pero le pido que lo mejore y lo hace | [E-731d2e8a · mensaje 19](../../raw/transcripciones/E-731d2e8a.md#m-19) |
+| [E-1901bb7d](../entrevistas/E-1901bb7d.md) | Prompts e instrucciones | Por ejemplo en Evanto, solo se incluye el Guion Ausiovisual con la instrucción específica y lo que antes tomaba una mañana de trabajo grabando la locución, ahora la IA lo hace en minutos. | [E-1901bb7d · mensaje 5](../../raw/transcripciones/E-1901bb7d.md#m-5) |
+| [E-b764e6c6](../entrevistas/E-b764e6c6.md) | Prompts e instrucciones | Puede ser la complejidad de los contratos, pues utilizan un lenguaje técnico además muchos datos numéricos especialmente con contratos de proveedores, entonces puede confundirse la respuesta si la pregunta quizás es muy vaga o abierta, requiriendo que los prompts sean muy especificos y eso no siempre es posible pues estamos refiriendo al uso de la herramienta para explorar o indagar sobre documentos q apenas estoy revisando por primera vez. Cuando yo conozco el material o contenido estoy mucho mejor preparado para identificar errores o potenciales alucinaciones | [E-b764e6c6 · mensaje 11](../../raw/transcripciones/E-b764e6c6.md#m-11) |
+| [E-b764e6c6](../entrevistas/E-b764e6c6.md) | Prompts e instrucciones | Si realmente la capacidad de la herramienta para analizar documentos en distintos formatos de manera tan rápida, me hizo avanzar mucho más rápido en la revisión y descubrir cosas mucho más rápido con simples prompts consultando acerca de un tema en específico que por el contaruo me hubiese hecho leer cada contrato por mi cuenta y encontrar esos temas relevantes uno por uno | [E-b764e6c6 · mensaje 13](../../raw/transcripciones/E-b764e6c6.md#m-13) |
+| [E-9d4f2828](../entrevistas/E-9d4f2828.md) | Prompts e instrucciones | No, creo que la clave esta en dar las indicaciones claras de que es lo que ocupamos. Por ejemplo también ayudo en el comité de admisión y Cloud nos ayuda muchísimo porque se hizo todo un programa para el proceso de inscripción | [E-9d4f2828 · mensaje 9](../../raw/transcripciones/E-9d4f2828.md#m-9) |
+| [E-9d4f2828](../entrevistas/E-9d4f2828.md) | Prompts e instrucciones | Insisto si podemos darle las indicaciones podemos lograr grandes cosas | [E-9d4f2828 · mensaje 15](../../raw/transcripciones/E-9d4f2828.md#m-15) |
+| [E-4b630499](../entrevistas/E-4b630499.md) | Prompts e instrucciones | Sí, definitivamente provee una ayuda bastante grata y acertada cuando las instrucciones son específicas y correctas. Dejándome sorprendida del bien trabajo que puede realizar y la gran ayuda que puede darme | [E-4b630499 · mensaje 13](../../raw/transcripciones/E-4b630499.md#m-13) |
+| [E-195032ad](../entrevistas/E-195032ad.md) | Prompts e instrucciones | Inicialmente solo escribí texto corrido. Ahora estructurados prompts | [E-195032ad · mensaje 15](../../raw/transcripciones/E-195032ad.md#m-15) |
+| [E-195032ad](../entrevistas/E-195032ad.md) | Prompts e instrucciones | Anteriormente le decia revisar tal y tal cosa... ahora, le indico un rol con grado de experiencia. Le asigno una tarea donde detallo instrucciones por bloques. Le doy otras guías  como utilizar fuentes x y y, adjunto textos de referencia y por último le indico resultado esperado. | [E-195032ad · mensaje 17](../../raw/transcripciones/E-195032ad.md#m-17) |
+| [E-c71ea51a](../entrevistas/E-c71ea51a.md) | Prompts e instrucciones | Realicé el desarrollo de prompts con Gemini y de ahí le indiqué lo que quería que hiciera el dashboard, filtros, formato, gráficos etc | [E-c71ea51a · mensaje 15](../../raw/transcripciones/E-c71ea51a.md#m-15) |
+| [E-8e32669c](../entrevistas/E-8e32669c.md) | Prompts e instrucciones | Sí claro la información incorrecta o diferente pero va más por que la instrucción que le di estaba incompleta o inespecifica | [E-8e32669c · mensaje 15](../../raw/transcripciones/E-8e32669c.md#m-15) |
+| [E-8e32669c](../entrevistas/E-8e32669c.md) | Prompts e instrucciones | Realizó una nueva instrucción en la que le indicó que tomando en cuenta lo ya solicitado realice una mejor propuesta con esto y lo otro | [E-8e32669c · mensaje 19](../../raw/transcripciones/E-8e32669c.md#m-19) |
+| [E-5972e4e8](../entrevistas/E-5972e4e8.md) | Prompts e instrucciones | Le doy datos de entrada le pido que analice y me devuelva datos de salida | [E-5972e4e8 · mensaje 5](../../raw/transcripciones/E-5972e4e8.md#m-5) |
+| [E-5972e4e8](../entrevistas/E-5972e4e8.md) | Prompts e instrucciones | Si en ocasiones pero me di cuenta que el prompt utilizado es de suma importancia para ser específico en lo que se desea obtener | [E-5972e4e8 · mensaje 19](../../raw/transcripciones/E-5972e4e8.md#m-19) |
+| [E-5bb5bf47](../entrevistas/E-5bb5bf47.md) | Prompts e instrucciones | Las indicaciones que se le dan para que me de lo que necesito | [E-5bb5bf47 · mensaje 13](../../raw/transcripciones/E-5bb5bf47.md#m-13) |
+| [E-47c8fed5](../entrevistas/E-47c8fed5.md) | Prompts e instrucciones | Le di indicaciones básicas como el desarrollo de la idea y que objetivo requería llegar para poder generar un impacto optimo, tambien le mencione cuales eran los puntos en los que requeria que fuera enfatico, como objetivos, características, impactos que pudiera generar e indicadores KPIs para poder evaluar el desempeño del plan | [E-47c8fed5 · mensaje 7](../../raw/transcripciones/E-47c8fed5.md#m-7) |
+| [E-957311e1](../entrevistas/E-957311e1.md) | Prompts e instrucciones | En realidad nunca me ha ocurrido, al brindar la información e indicación incluso siendo esta muy básica, te ayuda en gran manera | [E-957311e1 · mensaje 15](../../raw/transcripciones/E-957311e1.md#m-15) |
+| [E-8b29289b](../entrevistas/E-8b29289b.md) | Prompts e instrucciones | Le pido que me ayude | [E-8b29289b · mensaje 13](../../raw/transcripciones/E-8b29289b.md#m-13) |
+| [E-aba5882b](../entrevistas/E-aba5882b.md) | Prompts e instrucciones | Creo que ya tiene información de como redacto por la base de datos de mi equipo y se ajusta a eso, además la forma de dar las instrucciones es más simple al decir redacta algo que extrae información | [E-aba5882b · mensaje 13](../../raw/transcripciones/E-aba5882b.md#m-13) |
+| [E-9be8714e](../entrevistas/E-9be8714e.md) | Prompts e instrucciones | Si utilizo mi experiencia mercadeo y coaching para impresoras International para escribir prompts muy claro y hablar con IA para corregir. También comparte mi content final mi trabajo final y en este forma gemini puede entender mas mi forma de hablar y mi marca o de mis clientes | [E-9be8714e · mensaje 15](../../raw/transcripciones/E-9be8714e.md#m-15) |
+| [E-ec73ac2a](../entrevistas/E-ec73ac2a.md) | Prompts e instrucciones | Fue un prompt sencillo, le expliqué lo que necesitaba y como ocupaba que actuara | [Solo análisis histórico](../../raw/analisis-textos/E-ec73ac2a.md) |
+| [E-ec73ac2a](../entrevistas/E-ec73ac2a.md) | Prompts e instrucciones | Generar buenos prompts, ya me voy | [Solo análisis histórico](../../raw/analisis-textos/E-ec73ac2a.md) |
+| [E-f969fcea](../entrevistas/E-f969fcea.md) | Prompts e instrucciones | Generar prompts de la forma más detallada posible, definir skills y scope lo más claro posible para dar a la ia el juego claro | [E-f969fcea · mensaje 15](../../raw/transcripciones/E-f969fcea.md#m-15) |
+| [E-3f1236df](../entrevistas/E-3f1236df.md) | Prompts e instrucciones | Si le doy instrucciones más claras | [E-3f1236df · mensaje 11](../../raw/transcripciones/E-3f1236df.md#m-11) |
+| [E-ffaf8277](../entrevistas/E-ffaf8277.md) | Prompts e instrucciones | Pedirle al IA ayuda como puedohacerlo | [E-ffaf8277 · mensaje 15](../../raw/transcripciones/E-ffaf8277.md#m-15) |
+| [E-e55559e1](../entrevistas/E-e55559e1.md) | Prompts e instrucciones | Le di un prompt y las utilice como punto de partida | [E-e55559e1 · mensaje 11](../../raw/transcripciones/E-e55559e1.md#m-11) |
+| [E-e55559e1](../entrevistas/E-e55559e1.md) | Prompts e instrucciones | Si, cambie el prompt o utilice otra herramienta | [E-e55559e1 · mensaje 13](../../raw/transcripciones/E-e55559e1.md#m-13) |
+| [E-e260ff24](../entrevistas/E-e260ff24.md) | Prompts e instrucciones | Realmente todo yo solo le coloqué el promp con lo que necesitaba y lo fuimos mejorando hasta llegar al resultado final | [E-e260ff24 · mensaje 11](../../raw/transcripciones/E-e260ff24.md#m-11) |
+| [E-e260ff24](../entrevistas/E-e260ff24.md) | Prompts e instrucciones | Reviso el promp y el avance ya que al inicio puede generar errores por lo que le comparto capturas de pantalla del error y se soluciona y seguimos avanzando | [E-e260ff24 · mensaje 13](../../raw/transcripciones/E-e260ff24.md#m-13) |
+| [E-e260ff24](../entrevistas/E-e260ff24.md) | Prompts e instrucciones | Estructurar bien el promp con lo que necesito | [E-e260ff24 · mensaje 17](../../raw/transcripciones/E-e260ff24.md#m-17) |
+| [E-1d40770c](../entrevistas/E-1d40770c.md) | Prompts e instrucciones | Con los datos cuantitativos le pido el análisis del pasado  y la prediccion futura. Si en el procesamiento de información cualitativa tbn uso Chat GPT | [E-1d40770c · mensaje 13](../../raw/transcripciones/E-1d40770c.md#m-13) |
+| [E-1d40770c](../entrevistas/E-1d40770c.md) | Prompts e instrucciones | Le pido a Chatgpt q me ayude a descubrir que debemos hacer para alinear los objetivos del cliente con mis servicios.  Para esto ya Chatgpt tiene mi oferta de servicios | [E-1d40770c · mensaje 17](../../raw/transcripciones/E-1d40770c.md#m-17) |
+
+## Asociaciones históricas
+
+| Concepto relacionado | Entrevistas con presencia conjunta |
+| --- | --- |
+| [Adopción y capacitación](adopcion-y-capacitacion.md) | 21 |
+| [Calidad de resultados](calidad-de-resultados.md) | 20 |
+| [Fiabilidad y verificación](fiabilidad-y-verificacion.md) | 19 |
+| [IA generativa](ia-generativa.md) | 17 |
+| [ChatGPT](chatgpt.md) | 14 |
+| [Procesos empresariales](procesos-empresariales.md) | 14 |
+| [Datos y bases de datos](datos-y-bases-de-datos.md) | 13 |
+| [Documentos](documentos.md) | 12 |
+
+La coocurrencia se calcula por entrevista. No implica causalidad ni equivalencia de conceptos.
+
+[Criterios de interpretación](../metodologia/criterios.md) · [Índice](../../index.md)

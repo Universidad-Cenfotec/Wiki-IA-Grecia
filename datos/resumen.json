@@ -1,0 +1,28 @@
+{
+  "registros_csv": 87,
+  "entrevistas_utilizables": 86,
+  "mensajes_csv": 1945,
+  "mensajes_participante": 929,
+  "estados_csv": {
+    "IN_PROGRESS": 14,
+    "COMPLETED": 73
+  },
+  "estados_utilizables": {
+    "COMPLETED": 73,
+    "IN_PROGRESS": 13
+  },
+  "registros_analisis": 86,
+  "textos_identicos": 64,
+  "textos_distintos": 22,
+  "cambios_estado": 16,
+  "conceptos": 52,
+  "temas": 23,
+  "pni": {
+    "Positivo": 276,
+    "Interesante": 58,
+    "Negativo": 55
+  },
+  "codificaciones_historicas": 2301,
+  "codificaciones_coincidentes_csv": 2281,
+  "codificaciones_solo_analisis": 20
+}
